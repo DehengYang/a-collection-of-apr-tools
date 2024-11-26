@@ -14,8 +14,9 @@
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 import config
-import os, glob, json
+import os, glob, json, re
 import pandas as pd
+
 
 def main():
     json_output_dir=os.path.join(config.OUTPUT_DIR, 'json')
@@ -39,8 +40,16 @@ def main():
     df_new.sort_values(by=['Year','Title'], ascending=False,inplace=True,ignore_index=True)
     df_new.index = range(1, len(df_new) + 1)
     markdown_table_content = df_new[['Title', 'APR Tool Name', 'Year', 'Venue', 'Repo URL', 'Target Language', 'Used Dataset', 'CCF Rank']].to_markdown(index=True)
-    with open(os.path.join(config.OUTPUT_DIR, 'apr_literature_metadata.md'), 'w', encoding='utf-8') as f:
-        f.write(markdown_table_content)
+
+    readme_path = os.path.join(config.PROJ_DIR, '../README.md')
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        readme_content = f.read()
+    # matches = re.findall('## APR Tool List \(sorted by year\).*', readme_content, flags=re.DOTALL)
+    updated_content = re.sub('## APR Tool List \(sorted by year\).*', f'## APR Tool List (sorted by year)\n\n{markdown_table_content}', readme_content, flags=re.DOTALL)
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(updated_content)
+    # with open(os.path.join(config.OUTPUT_DIR, 'apr_literature_metadata.md'), 'w', encoding='utf-8') as f:
+    #     f.write(markdown_table_content)
 
 
 if __name__ == '__main__':
