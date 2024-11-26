@@ -1,11 +1,8 @@
 import sys
 from PyQt5.QtWidgets import QMainWindow,QApplication,QWidget,QPushButton,QFrame,QMessageBox
-from Ui_apr_ui import Ui_MainWindow  #导入你写的界面类
+from ui.Ui_apr_ui import Ui_MainWindow  #导入你写的界面类
 import os,json
-
 import config
-
-
 from bib_parser import bibtex_parser
  
 class MyMainWindow(QMainWindow,Ui_MainWindow): #这里也要记得改

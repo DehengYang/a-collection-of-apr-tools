@@ -13,6 +13,32 @@ We hope it could serve as a good reference point for APR researchers who would l
 
 This project is licensed under the [GNU GPLv3 LICENSE](./LICENSE).
 
+
+## The Way to Contribute to this Repository
+
+To contribute to this repository, you can follow these steps:
+
+### Step 1: Fork the Repository
+
+### Step 2: Configure the Python Environment
+
+1. `cd metadata_manager`
+2. `conda env create -f env.yml`
+3. `conda activate apr-tools`
+4. `python main_json_generator.py`,
+
+and then you will see the following Window:
+
+![./doc/ui.png](./doc/ui.png)
+
+
+First, paste the Bibtex data of the paper you want to add, and click "Start Parsing". Then, fill the corresponding fields (e.g., APR tool name, Specification) of the paper in the UI. Finally, click "Save As JSON" to add the paper metadata to the output directory (i.e., `output/json_new`). 
+
+5. `python main_json_parser.py` to update the Markdown Table of the `README.md` file.
+
+### Step 3: Create a PR 
+
+
 ## Update
 
 We will continue updating the repository to include the latest APR tools. Any contribution is very welcomed :blush:!
