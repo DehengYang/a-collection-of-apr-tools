@@ -1,0 +1,27 @@
+{
+    "Title": "Code-Based Automated Program Fixing",
+    "APR Tool Name": "AutoFix-E2",
+    "Authors": [
+        "Yu Pei",
+        "Yi Wei",
+        "Carlo A. Furia",
+        "Martin Nordio",
+        "Bertrand Meyer"
+    ],
+    "Year": "2011",
+    "Venue": "ASE",
+    "Repo URL": "-",
+    "Target Language": [
+        "Eiffel"
+    ],
+    "Used Dataset": [
+        "Data structure libraries",
+        "A library to manipulate text documents"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/kbse/PeiWFNM11,\n  author       = {Yu Pei and\n                  Yi Wei and\n                  Carlo A. Furia and\n                  Martin Nordio and\n                  Bertrand Meyer},\n  editor       = {Perry Alexander and\n                  Corina S. Pasareanu and\n                  John G. Hosking},\n  title        = {Code-based automated program fixing},\n  booktitle    = {26th {IEEE/ACM} International Conference on Automated Software Engineering\n                  {(ASE} 2011), Lawrence, KS, USA, November 6-10, 2011},\n  pages        = {392--395},\n  publisher    = {{IEEE} Computer Society},\n  year         = {2011},\n  url          = {https://doi.org/10.1109/ASE.2011.6100080},\n  doi          = {10.1109/ASE.2011.6100080},\n  timestamp    = {Fri, 24 Mar 2023 00:02:36 +0100},\n  biburl       = {https://dblp.org/rec/conf/kbse/PeiWFNM11.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,25 @@
+{
+    "Title": "Agentless: Demystifying LLM-based Software Engineering Agents",
+    "APR Tool Name": "Agentless",
+    "Authors": [
+        "Chunqiu Steven Xia",
+        "Yinlin Deng",
+        "Soren Dunn",
+        "Lingming Zhang"
+    ],
+    "Year": "2024",
+    "Venue": "arxiv",
+    "Repo URL": "https://github.com/OpenAutoCoder/Agentless",
+    "Target Language": [
+        "Python"
+    ],
+    "Used Dataset": [
+        "SWE-bench"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2407-01489,\n  author       = {Chunqiu Steven Xia and\n                  Yinlin Deng and\n                  Soren Dunn and\n                  Lingming Zhang},\n  title        = {Agentless: Demystifying LLM-based Software Engineering Agents},\n  journal      = {CoRR},\n  volume       = {abs/2407.01489},\n  year         = {2024},\n  url          = {https://doi.org/10.48550/arXiv.2407.01489},\n  doi          = {10.48550/ARXIV.2407.01489},\n  eprinttype    = {arXiv},\n  eprint       = {2407.01489},\n  timestamp    = {Fri, 09 Aug 2024 10:24:41 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2407-01489.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

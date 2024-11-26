@@ -1,0 +1,23 @@
+{
+    "Title": "Ultra-large repair search space with automatically mined templates: The cardumen mode of astor",
+    "APR Tool Name": "Cardumen",
+    "Authors": [
+        "Matias Martinez",
+        "Martin Monperrus"
+    ],
+    "Year": "2018",
+    "Venue": "International Symposium on Search Based Software Engineering",
+    "Repo URL": "https://github.com/SpoonLabs/astor-experiments/",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/ssbse/MartinezM18,\n  author       = {Matias Martinez and\n                  Martin Monperrus},\n  editor       = {Thelma Elita Colanzi and\n                  Phil McMinn},\n  title        = {Ultra-Large Repair Search Space with Automatically Mined Templates:\n                  The Cardumen Mode of Astor},\n  booktitle    = {Search-Based Software Engineering - 10th International Symposium,\n                  {SSBSE} 2018, Montpellier, France, September 8-9, 2018, Proceedings},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {11036},\n  pages        = {65--86},\n  publisher    = {Springer},\n  year         = {2018},\n  url          = {https://doi.org/10.1007/978-3-319-99241-9\\_3},\n  doi          = {10.1007/978-3-319-99241-9\\_3},\n  timestamp    = {Mon, 26 Jun 2023 20:45:21 +0200},\n  biburl       = {https://dblp.org/rec/conf/ssbse/MartinezM18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,26 @@
+{
+    "Title": "Automated Program Repair Based on Code Review: How do Pre-trained Transformer Models Perform?",
+    "APR Tool Name": "Fine-tuned CodeT5",
+    "Authors": [
+        "Rishov Paul",
+        "Md. Mohib Hossain",
+        "Masum Hasan",
+        "Anindya Iqbal"
+    ],
+    "Year": "2023",
+    "Venue": "arxiv",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Dataset by Tufano et al",
+        "Review4Repair Dataset"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2304-07840,\n  author       = {Rishov Paul and\n                  Md. Mohib Hossain and\n                  Masum Hasan and\n                  Anindya Iqbal},\n  title        = {Automated Program Repair Based on Code Review: How do Pre-trained\n                  Transformer Models Perform?},\n  journal      = {CoRR},\n  volume       = {abs/2304.07840},\n  year         = {2023},\n  url          = {https://doi.org/10.48550/arXiv.2304.07840},\n  doi          = {10.48550/ARXIV.2304.07840},\n  eprinttype    = {arXiv},\n  eprint       = {2304.07840},\n  timestamp    = {Fri, 21 Apr 2023 11:01:56 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2304-07840.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

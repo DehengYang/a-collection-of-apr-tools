@@ -1,0 +1,29 @@
+{
+    "Title": "Automated Code Editing with Search-Generate-Modify",
+    "APR Tool Name": "SARGAM",
+    "Authors": [
+        "Changshu Liu",
+        "Pelin \\cCetin",
+        "Yogesh Patodia",
+        "Baishakhi Ray",
+        "Saikat Chakraborty",
+        "Yangruibo Ding"
+    ],
+    "Year": "2024",
+    "Venue": "arxiv",
+    "Repo URL": "https://github.com/SarGAMTEAM/SarGAM.git",
+    "Target Language": [
+        "Java",
+        "Python"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "QuixBugs"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/tse/LiuCPRCD24,\n  author       = {Changshu Liu and\n                  Pelin {\\c{C}}etin and\n                  Yogesh Patodia and\n                  Baishakhi Ray and\n                  Saikat Chakraborty and\n                  Yangruibo Ding},\n  title        = {Automated Code Editing With Search-Generate-Modify},\n  journal      = {{IEEE} Trans. Software Eng.},\n  volume       = {50},\n  number       = {7},\n  pages        = {1675--1686},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/TSE.2024.3376387},\n  doi          = {10.1109/TSE.2024.3376387},\n  timestamp    = {Fri, 02 Aug 2024 21:40:24 +0200},\n  biburl       = {https://dblp.org/rec/journals/tse/LiuCPRCD24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

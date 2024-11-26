@@ -1,0 +1,26 @@
+{
+    "Title": "Mining Event Logic Graph from Open Q\\&A Site for Automated Program Repair",
+    "APR Tool Name": "APR-ELG",
+    "Authors": [
+        "Chuanjia Hou",
+        "Xiaotong Liu",
+        "Hao Yu",
+        "Tong Jia",
+        "Ying Li"
+    ],
+    "Year": "2021",
+    "Venue": "QRS-C",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/qrs/HouLYJL21,\n  author       = {Chuanjia Hou and\n                  Xiaotong Liu and\n                  Hao Yu and\n                  Tong Jia and\n                  Ying Li},\n  title        = {Mining Event Logic Graph from Open Q{\\&}A Site for Automated Program\n                  Repair},\n  booktitle    = {21st {IEEE} International Conference on Software Quality, Reliability\n                  and Security, {QRS} 2021 - Companion, Hainan, China, December 6-10,\n                  2021},\n  pages        = {1167--1168},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/QRS-C55045.2021.00177},\n  doi          = {10.1109/QRS-C55045.2021.00177},\n  timestamp    = {Thu, 13 Apr 2023 22:22:18 +0200},\n  biburl       = {https://dblp.org/rec/conf/qrs/HouLYJL21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

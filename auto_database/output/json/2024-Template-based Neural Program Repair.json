@@ -1,0 +1,23 @@
+{
+    "Title": "Template-based Neural Program Repair",
+    "APR Tool Name": "TENURE",
+    "Authors": [
+        "Yanbo Zhang",
+        "Yawen Wang"
+    ],
+    "Year": "2024",
+    "Venue": "ICSE",
+    "Repo URL": "https://github.com/mxx1219/TENURE",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/ijcnn/ZhangW24,\n  author       = {Yanbo Zhang and\n                  Yawen Wang},\n  title        = {SeTemAPR: Incorporating Semantic Knowledge in Template-based Neural\n                  Program Repair},\n  booktitle    = {International Joint Conference on Neural Networks, {IJCNN} 2024, Yokohama,\n                  Japan, June 30 - July 5, 2024},\n  pages        = {1--8},\n  publisher    = {{IEEE}},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/IJCNN60899.2024.10650123},\n  doi          = {10.1109/IJCNN60899.2024.10650123},\n  timestamp    = {Thu, 19 Sep 2024 10:41:53 +0200},\n  biburl       = {https://dblp.org/rec/conf/ijcnn/ZhangW24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

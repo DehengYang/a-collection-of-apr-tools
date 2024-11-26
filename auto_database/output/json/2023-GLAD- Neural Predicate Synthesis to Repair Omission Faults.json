@@ -1,0 +1,23 @@
+{
+    "Title": "GLAD: Neural Predicate Synthesis to Repair Omission Faults",
+    "APR Tool Name": "GLAD",
+    "Authors": [
+        "Sungmin Kang",
+        "Shin Yoo"
+    ],
+    "Year": "2023",
+    "Venue": "ICSE-Companion\n（poster）",
+    "Repo URL": "https://anonymous.4open.science/r/neural-pred-synth-4816/README.md",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/KangY23,\n  author       = {Sungmin Kang and\n                  Shin Yoo},\n  title        = {{GLAD:} Neural Predicate Synthesis to Repair Omission Faults},\n  booktitle    = {45th {IEEE/ACM} International Conference on Software Engineering:\n                  {ICSE} 2023 Companion Proceedings, Melbourne, Australia, May 14-20,\n                  2023},\n  pages        = {320--321},\n  publisher    = {{IEEE}},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/ICSE-Companion58688.2023.00087},\n  doi          = {10.1109/ICSE-COMPANION58688.2023.00087},\n  timestamp    = {Tue, 18 Jul 2023 09:27:16 +0200},\n  biburl       = {https://dblp.org/rec/conf/icse/KangY23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

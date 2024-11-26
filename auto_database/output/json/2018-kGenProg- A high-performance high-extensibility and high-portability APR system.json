@@ -1,0 +1,29 @@
+{
+    "Title": "kGenProg: A high-performance, high-extensibility and high-portability APR system",
+    "APR Tool Name": "kGenProg",
+    "Authors": [
+        "Yoshiki Higo",
+        "Shinsuke Matsumoto",
+        "Ryo Arima",
+        "Akito Tanikado",
+        "Keigo Naitou",
+        "Junnosuke Matsumoto",
+        "Yuya Tomida",
+        "Shinji Kusumoto"
+    ],
+    "Year": "2018",
+    "Venue": "APSEC",
+    "Repo URL": "https://github.com/kusumotolab/kGenProg",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "a simple faulty program"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/apsec/HigoMATNMTK18,\n  author       = {Yoshiki Higo and\n                  Shinsuke Matsumoto and\n                  Ryo Arima and\n                  Akito Tanikado and\n                  Keigo Naitou and\n                  Junnosuke Matsumoto and\n                  Yuya Tomida and\n                  Shinji Kusumoto},\n  title        = {kGenProg: {A} High-Performance, High-Extensibility and High-Portability\n                  {APR} System},\n  booktitle    = {25th Asia-Pacific Software Engineering Conference, {APSEC} 2018, Nara,\n                  Japan, December 4-7, 2018},\n  pages        = {697--698},\n  publisher    = {{IEEE}},\n  year         = {2018},\n  url          = {https://doi.org/10.1109/APSEC.2018.00094},\n  doi          = {10.1109/APSEC.2018.00094},\n  timestamp    = {Wed, 16 Oct 2019 14:14:50 +0200},\n  biburl       = {https://dblp.org/rec/conf/apsec/HigoMATNMTK18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

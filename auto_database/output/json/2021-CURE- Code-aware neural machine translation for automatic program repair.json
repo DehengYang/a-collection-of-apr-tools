@@ -1,0 +1,25 @@
+{
+    "Title": "CURE: Code-aware neural machine translation for automatic program repair",
+    "APR Tool Name": "CURE",
+    "Authors": [
+        "Nan Jiang",
+        "Thibaud Lutellier",
+        "Lin Tan"
+    ],
+    "Year": "2021",
+    "Venue": "ICSE",
+    "Repo URL": "https://github.com/lin-tan/CURE",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "QuixBugs"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/JiangL021,\n  author       = {Nan Jiang and\n                  Thibaud Lutellier and\n                  Lin Tan},\n  title        = {{CURE:} Code-Aware Neural Machine Translation for Automatic Program\n                  Repair},\n  booktitle    = {43rd {IEEE/ACM} International Conference on Software Engineering,\n                  {ICSE} 2021, Madrid, Spain, 22-30 May 2021},\n  pages        = {1161--1173},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/ICSE43902.2021.00107},\n  doi          = {10.1109/ICSE43902.2021.00107},\n  timestamp    = {Fri, 22 Sep 2023 09:30:11 +0200},\n  biburl       = {https://dblp.org/rec/conf/icse/JiangL021.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

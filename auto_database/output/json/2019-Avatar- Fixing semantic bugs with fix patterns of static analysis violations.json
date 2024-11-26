@@ -1,0 +1,25 @@
+{
+    "Title": "Avatar: Fixing semantic bugs with fix patterns of static analysis violations",
+    "APR Tool Name": "AVATAR",
+    "Authors": [
+        "Kui Liu",
+        "Anil Koyuncu",
+        "Dongsun Kim",
+        "Tegawend\\'e F. Bissyand\\'e"
+    ],
+    "Year": "2019",
+    "Venue": "SANER",
+    "Repo URL": "https://github.com/SerVal-Repair/AVATAR",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/wcre/LiuK0B19,\n  author       = {Kui Liu and\n                  Anil Koyuncu and\n                  Dongsun Kim and\n                  Tegawend{\\'{e}} F. Bissyand{\\'{e}}},\n  editor       = {Xinyu Wang and\n                  David Lo and\n                  Emad Shihab},\n  title        = {{AVATAR:} Fixing Semantic Bugs with Fix Patterns of Static Analysis\n                  Violations},\n  booktitle    = {26th {IEEE} International Conference on Software Analysis, Evolution\n                  and Reengineering, {SANER} 2019, Hangzhou, China, February 24-27,\n                  2019},\n  pages        = {456--467},\n  publisher    = {{IEEE}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/SANER.2019.8667970},\n  doi          = {10.1109/SANER.2019.8667970},\n  timestamp    = {Sat, 30 Sep 2023 09:58:54 +0200},\n  biburl       = {https://dblp.org/rec/conf/wcre/LiuK0B19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

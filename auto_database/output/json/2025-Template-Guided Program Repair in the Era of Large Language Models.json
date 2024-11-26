@@ -1,0 +1,21 @@
+{
+    "Title": "Template-Guided Program Repair in the Era of Large Language Models",
+    "APR Tool Name": "NTR",
+    "Authors": [],
+    "Year": 2025,
+    "Venue": "ICSE",
+    "Repo URL": "https://sites.google.com/view/neuraltemplaterepair",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "HumanEval-Java"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

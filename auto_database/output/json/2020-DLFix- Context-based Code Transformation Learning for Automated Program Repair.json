@@ -1,0 +1,24 @@
+{
+    "Title": "DLFix: Context-based Code Transformation Learning for Automated Program Repair",
+    "APR Tool Name": "DLFix",
+    "Authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien N. Nguyen"
+    ],
+    "Year": "2020",
+    "Venue": "ICSE",
+    "Repo URL": "https://github.com/ICSE-2019-AUTOFIX/ICSE-2019-AUTOFIX",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/Li0N20,\n  author       = {Yi Li and\n                  Shaohua Wang and\n                  Tien N. Nguyen},\n  editor       = {Gregg Rothermel and\n                  Doo{-}Hwan Bae},\n  title        = {DLFix: context-based code transformation learning for automated program\n                  repair},\n  booktitle    = {{ICSE} '20: 42nd International Conference on Software Engineering,\n                  Seoul, South Korea, 27 June - 19 July, 2020},\n  pages        = {602--614},\n  publisher    = {{ACM}},\n  year         = {2020},\n  url          = {https://doi.org/10.1145/3377811.3380345},\n  doi          = {10.1145/3377811.3380345},\n  timestamp    = {Fri, 08 Jan 2021 14:47:26 +0100},\n  biburl       = {https://dblp.org/rec/conf/icse/Li0N20.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

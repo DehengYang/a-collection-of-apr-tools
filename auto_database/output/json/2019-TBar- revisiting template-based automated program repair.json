@@ -1,0 +1,25 @@
+{
+    "Title": "TBar: revisiting template-based automated program repair",
+    "APR Tool Name": "Tbar",
+    "Authors": [
+        "Kui Liu",
+        "Anil Koyuncu",
+        "Dongsun Kim",
+        "Tegawend\\'e F. Bissyand\\'e"
+    ],
+    "Year": "2019",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/SerVal-DTF/Tbar",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/issta/LiuK0B19,\n  author       = {Kui Liu and\n                  Anil Koyuncu and\n                  Dongsun Kim and\n                  Tegawend{\\'{e}} F. Bissyand{\\'{e}}},\n  editor       = {Dongmei Zhang and\n                  Anders M{\\o}ller},\n  title        = {TBar: revisiting template-based automated program repair},\n  booktitle    = {Proceedings of the 28th {ACM} {SIGSOFT} International Symposium on\n                  Software Testing and Analysis, {ISSTA} 2019, Beijing, China, July\n                  15-19, 2019},\n  pages        = {31--42},\n  publisher    = {{ACM}},\n  year         = {2019},\n  url          = {https://doi.org/10.1145/3293882.3330577},\n  doi          = {10.1145/3293882.3330577},\n  timestamp    = {Sat, 30 Sep 2023 09:50:51 +0200},\n  biburl       = {https://dblp.org/rec/conf/issta/LiuK0B19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

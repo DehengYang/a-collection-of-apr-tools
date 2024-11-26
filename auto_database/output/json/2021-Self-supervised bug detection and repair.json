@@ -1,0 +1,25 @@
+{
+    "Title": "Self-supervised bug detection and repair",
+    "APR Tool Name": "BUGLAB (PYBUGLAB)",
+    "Authors": [
+        "Miltiadis Allamanis",
+        "Henry Jackson-Flux",
+        "Marc Brockschmidt"
+    ],
+    "Year": "2021",
+    "Venue": "NeurIPS",
+    "Repo URL": "-",
+    "Target Language": [
+        "Python"
+    ],
+    "Used Dataset": [
+        "RANDOMBUGS",
+        "PYPIBUGS"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/nips/AllamanisJB21,\n  author       = {Miltiadis Allamanis and\n                  Henry Jackson{-}Flux and\n                  Marc Brockschmidt},\n  editor       = {Marc'Aurelio Ranzato and\n                  Alina Beygelzimer and\n                  Yann N. Dauphin and\n                  Percy Liang and\n                  Jennifer Wortman Vaughan},\n  title        = {Self-Supervised Bug Detection and Repair},\n  booktitle    = {Advances in Neural Information Processing Systems 34: Annual Conference\n                  on Neural Information Processing Systems 2021, NeurIPS 2021, December\n                  6-14, 2021, virtual},\n  pages        = {27865--27876},\n  year         = {2021},\n  url          = {https://proceedings.neurips.cc/paper/2021/hash/ea96efc03b9a050d895110db8c4af057-Abstract.html},\n  timestamp    = {Tue, 03 May 2022 16:20:49 +0200},\n  biburl       = {https://dblp.org/rec/conf/nips/AllamanisJB21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

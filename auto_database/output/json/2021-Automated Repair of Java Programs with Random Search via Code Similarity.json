@@ -1,0 +1,26 @@
+{
+    "Title": "Automated Repair of Java Programs with Random Search via Code Similarity",
+    "APR Tool Name": "RCSRepair",
+    "Authors": [
+        "Heling Cao",
+        "Fangzheng Liu",
+        "Jianshu Shi",
+        "Yonghe Chu",
+        "Miaolei Deng"
+    ],
+    "Year": "2021",
+    "Venue": "QRS-Companion",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/qrs/CaoLSCD21,\n  author       = {Heling Cao and\n                  Fangzheng Liu and\n                  Jianshu Shi and\n                  Yonghe Chu and\n                  Miaolei Deng},\n  title        = {Automated Repair of Java Programs with Random Search via Code Similarity},\n  booktitle    = {21st {IEEE} International Conference on Software Quality, Reliability\n                  and Security, {QRS} 2021 - Companion, Hainan, China, December 6-10,\n                  2021},\n  pages        = {470--477},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/QRS-C55045.2021.00075},\n  doi          = {10.1109/QRS-C55045.2021.00075},\n  timestamp    = {Tue, 12 Apr 2022 17:57:49 +0200},\n  biburl       = {https://dblp.org/rec/conf/qrs/CaoLSCD21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

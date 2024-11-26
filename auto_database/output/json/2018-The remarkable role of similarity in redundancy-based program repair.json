@@ -1,0 +1,23 @@
+{
+    "Title": "The remarkable role of similarity in redundancy-based program repair",
+    "APR Tool Name": "3sfix",
+    "Authors": [
+        "Zimin Chen",
+        "Martin Monperrus"
+    ],
+    "Year": "2018",
+    "Venue": "arxiv",
+    "Repo URL": "https://github.com/kth-tcs/3sFix-experiments",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-1811-05703,\n  author       = {Zimin Chen and\n                  Martin Monperrus},\n  title        = {The Remarkable Role of Similarity in Redundancy-based Program Repair},\n  journal      = {CoRR},\n  volume       = {abs/1811.05703},\n  year         = {2018},\n  url          = {http://arxiv.org/abs/1811.05703},\n  eprinttype    = {arXiv},\n  eprint       = {1811.05703},\n  timestamp    = {Sat, 24 Nov 2018 17:52:00 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-1811-05703.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

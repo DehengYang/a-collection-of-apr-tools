@@ -1,0 +1,25 @@
+{
+    "Title": "VarFix: balancing edit expressiveness and search effectiveness in automated program repair",
+    "APR Tool Name": "VarFix",
+    "Authors": [
+        "Chu-Pan Wong",
+        "Priscila Santiesteban",
+        "Christian K\\\"astner",
+        "Claire Le Goues"
+    ],
+    "Year": "2021",
+    "Venue": "FSE",
+    "Repo URL": "https://github.com/chupanw/varfix-supplement/commits/main\n（没有内容）",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "IntroClassJava and Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/sigsoft/WongSKG21,\n  author       = {Chu{-}Pan Wong and\n                  Priscila Santiesteban and\n                  Christian K{\\\"{a}}stner and\n                  Claire {Le Goues}},\n  editor       = {Diomidis Spinellis and\n                  Georgios Gousios and\n                  Marsha Chechik and\n                  Massimiliano Di Penta},\n  title        = {VarFix: balancing edit expressiveness and search effectiveness in\n                  automated program repair},\n  booktitle    = {{ESEC/FSE} '21: 29th {ACM} Joint European Software Engineering Conference\n                  and Symposium on the Foundations of Software Engineering, Athens,\n                  Greece, August 23-28, 2021},\n  pages        = {354--366},\n  publisher    = {{ACM}},\n  year         = {2021},\n  url          = {https://doi.org/10.1145/3468264.3468600},\n  doi          = {10.1145/3468264.3468600},\n  timestamp    = {Tue, 07 May 2024 20:09:15 +0200},\n  biburl       = {https://dblp.org/rec/conf/sigsoft/WongSKG21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

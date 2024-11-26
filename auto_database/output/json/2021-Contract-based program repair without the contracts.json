@@ -1,0 +1,24 @@
+{
+    "Title": "Contract-based program repair without the contracts",
+    "APR Tool Name": "JAID",
+    "Authors": [
+        "Liushan Chen",
+        "Yu Pei",
+        "Carlo A. Furia"
+    ],
+    "Year": "2021",
+    "Venue": "ASE",
+    "Repo URL": "https://bitbucket.org/maxpei/jaid/",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/tse/ChenPF21,\n  author       = {Liushan Chen and\n                  Yu Pei and\n                  Carlo A. Furia},\n  title        = {Contract-Based Program Repair Without The Contracts: An Extended Study},\n  journal      = {{IEEE} Trans. Software Eng.},\n  volume       = {47},\n  number       = {12},\n  pages        = {2841--2857},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/TSE.2020.2970009},\n  doi          = {10.1109/TSE.2020.2970009},\n  timestamp    = {Sat, 25 Dec 2021 15:52:21 +0100},\n  biburl       = {https://dblp.org/rec/journals/tse/ChenPF21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

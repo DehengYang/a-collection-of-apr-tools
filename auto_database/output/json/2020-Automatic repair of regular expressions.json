@@ -1,0 +1,25 @@
+{
+    "Title": "Automatic repair of regular expressions",
+    "APR Tool Name": "RFixer",
+    "Authors": [
+        "Nariyoshi Chida",
+        "Tachio Terauchi"
+    ],
+    "Year": "2020",
+    "Venue": "OOPSLA",
+    "Repo URL": "https://github.com/rongpan/Rfixer",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "the Automata Tutor dataset",
+        "the RegExLib library",
+        "the regular expression repair work by Rebele et al."
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2010-12450,\n  author       = {Nariyoshi Chida and\n                  Tachio Terauchi},\n  title        = {Automatic Repair of Vulnerable Regular Expressions},\n  journal      = {CoRR},\n  volume       = {abs/2010.12450},\n  year         = {2020},\n  url          = {https://arxiv.org/abs/2010.12450},\n  eprinttype    = {arXiv},\n  eprint       = {2010.12450},\n  timestamp    = {Tue, 27 Oct 2020 11:22:08 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2010-12450.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

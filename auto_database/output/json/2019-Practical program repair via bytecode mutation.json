@@ -1,0 +1,24 @@
+{
+    "Title": "Practical program repair via bytecode mutation",
+    "APR Tool Name": "PraPR",
+    "Authors": [
+        "Ali Ghanbari",
+        "Samuel Benton",
+        "Lingming Zhang"
+    ],
+    "Year": "2019",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/prapr/prapr",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/issta/GhanbariBZ19,\n  author       = {Ali Ghanbari and\n                  Samuel Benton and\n                  Lingming Zhang},\n  editor       = {Dongmei Zhang and\n                  Anders M{\\o}ller},\n  title        = {Practical program repair via bytecode mutation},\n  booktitle    = {Proceedings of the 28th {ACM} {SIGSOFT} International Symposium on\n                  Software Testing and Analysis, {ISSTA} 2019, Beijing, China, July\n                  15-19, 2019},\n  pages        = {19--30},\n  publisher    = {{ACM}},\n  year         = {2019},\n  url          = {https://doi.org/10.1145/3293882.3330559},\n  doi          = {10.1145/3293882.3330559},\n  timestamp    = {Sun, 06 Oct 2024 21:09:48 +0200},\n  biburl       = {https://dblp.org/rec/conf/issta/GhanbariBZ19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

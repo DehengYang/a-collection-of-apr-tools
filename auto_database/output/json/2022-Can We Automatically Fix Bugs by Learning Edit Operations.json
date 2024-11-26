@@ -1,0 +1,25 @@
+{
+    "Title": "Can We Automatically Fix Bugs by Learning Edit Operations?",
+    "APR Tool Name": "Hephaestus",
+    "Authors": [
+        "Aidan Connor",
+        "Aaron Harris",
+        "Nathan Cooper",
+        "Denys Poshyvanyk"
+    ],
+    "Year": "2022",
+    "Venue": "SANER",
+    "Repo URL": "https://github.com/WM-SEMERU/hephaestus",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "CodeXGlue"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/wcre/ConnorHCP22,\n  author       = {Aidan Connor and\n                  Aaron Harris and\n                  Nathan Cooper and\n                  Denys Poshyvanyk},\n  title        = {Can We Automatically Fix Bugs by Learning Edit Operations?},\n  booktitle    = {{IEEE} International Conference on Software Analysis, Evolution and\n                  Reengineering, {SANER} 2022, Honolulu, HI, USA, March 15-18, 2022},\n  pages        = {782--792},\n  publisher    = {{IEEE}},\n  year         = {2022},\n  url          = {https://doi.org/10.1109/SANER53432.2022.00096},\n  doi          = {10.1109/SANER53432.2022.00096},\n  timestamp    = {Tue, 21 Mar 2023 20:57:07 +0100},\n  biburl       = {https://dblp.org/rec/conf/wcre/ConnorHCP22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

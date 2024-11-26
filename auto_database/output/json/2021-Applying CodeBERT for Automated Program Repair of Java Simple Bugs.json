@@ -1,0 +1,23 @@
+{
+    "Title": "Applying CodeBERT for Automated Program Repair of Java Simple Bugs",
+    "APR Tool Name": "fine-tuned CodeBERT",
+    "Authors": [
+        "Ehsan Mashhadi",
+        "Hadi Hemmati"
+    ],
+    "Year": "2021",
+    "Venue": "MSR",
+    "Repo URL": "https://github.com/EhsanMashhadi/MSR2021-ProgramRepair",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "ManySStuBs4J"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/msr/MashhadiH21,\n  author       = {Ehsan Mashhadi and\n                  Hadi Hemmati},\n  title        = {Applying CodeBERT for Automated Program Repair of Java Simple Bugs},\n  booktitle    = {18th {IEEE/ACM} International Conference on Mining Software Repositories,\n                  {MSR} 2021, Madrid, Spain, May 17-19, 2021},\n  pages        = {505--509},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/MSR52588.2021.00063},\n  doi          = {10.1109/MSR52588.2021.00063},\n  timestamp    = {Fri, 02 Jul 2021 15:01:28 +0200},\n  biburl       = {https://dblp.org/rec/conf/msr/MashhadiH21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,26 @@
+{
+    "Title": "Automated repair of programs from large language models",
+    "APR Tool Name": "CodeX-e",
+    "Authors": [
+        "Zhiyu Fan",
+        "Xiang Gao",
+        "Martin Mirchev",
+        "Abhik Roychoudhury",
+        "Shin Hwei Tan"
+    ],
+    "Year": "2023",
+    "Venue": "ICSE",
+    "Repo URL": "https://github.com/apr4codex/icse2023",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/FanGMRT23,\n  author       = {Zhiyu Fan and\n                  Xiang Gao and\n                  Martin Mirchev and\n                  Abhik Roychoudhury and\n                  Shin Hwei Tan},\n  title        = {Automated Repair of Programs from Large Language Models},\n  booktitle    = {45th {IEEE/ACM} International Conference on Software Engineering,\n                  {ICSE} 2023, Melbourne, Australia, May 14-20, 2023},\n  pages        = {1469--1481},\n  publisher    = {{IEEE}},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/ICSE48619.2023.00128},\n  doi          = {10.1109/ICSE48619.2023.00128},\n  timestamp    = {Sun, 04 Aug 2024 19:39:38 +0200},\n  biburl       = {https://dblp.org/rec/conf/icse/FanGMRT23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

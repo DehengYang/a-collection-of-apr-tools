@@ -1,0 +1,24 @@
+{
+    "Title": "DEAR: A Novel Deep Learning-based Approach for Automated Program Repair",
+    "APR Tool Name": "DEAR",
+    "Authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien N. Nguyen"
+    ],
+    "Year": "2022",
+    "Venue": "ICSE",
+    "Repo URL": "https://github.com/AutomatedProgramRepair-2021/dear-auto-fix",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/Li0N22,\n  author       = {Yi Li and\n                  Shaohua Wang and\n                  Tien N. Nguyen},\n  title        = {{DEAR:} {A} Novel Deep Learning-based Approach for Automated Program\n                  Repair},\n  booktitle    = {44th {IEEE/ACM} 44th International Conference on Software Engineering,\n                  {ICSE} 2022, Pittsburgh, PA, USA, May 25-27, 2022},\n  pages        = {511--523},\n  publisher    = {{ACM}},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3510003.3510177},\n  doi          = {10.1145/3510003.3510177},\n  timestamp    = {Mon, 18 Jul 2022 16:47:42 +0200},\n  biburl       = {https://dblp.org/rec/conf/icse/Li0N22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

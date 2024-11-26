@@ -1,0 +1,26 @@
+{
+    "Title": "MUFIN: Improving Neural Repair Models with Back-Translation",
+    "APR Tool Name": "MUFIN",
+    "Authors": [
+        "Andr\\'e Silva",
+        "Jo\\~ao F. Ferreira",
+        "He Ye",
+        "Martin Monperrus"
+    ],
+    "Year": "2023",
+    "Venue": "arxiv",
+    "Repo URL": "https://github.com/andre15silva/mufin",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "QuixBugs"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2304-02301,\n  author       = {Andr{\\'{e}} Silva and\n                  Jo{\\~{a}}o F. Ferreira and\n                  He Ye and\n                  Martin Monperrus},\n  title        = {{MUFIN:} Improving Neural Repair Models with Back-Translation},\n  journal      = {CoRR},\n  volume       = {abs/2304.02301},\n  year         = {2023},\n  url          = {https://doi.org/10.48550/arXiv.2304.02301},\n  doi          = {10.48550/ARXIV.2304.02301},\n  eprinttype    = {arXiv},\n  eprint       = {2304.02301},\n  timestamp    = {Tue, 02 May 2023 16:30:12 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2304-02301.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

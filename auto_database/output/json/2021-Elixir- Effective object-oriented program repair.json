@@ -1,0 +1,25 @@
+{
+    "Title": "Elixir: Effective object-oriented program repair",
+    "APR Tool Name": "ELIXIR",
+    "Authors": [
+        "Ripon K. Saha",
+        "Yingjun Lyu",
+        "Hiroaki Yoshida",
+        "Mukul R. Prasad"
+    ],
+    "Year": "2021",
+    "Venue": "ASE",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2112-10915,\n  author       = {Ripon K. Saha and\n                  Yingjun Lyu and\n                  Hiroaki Yoshida and\n                  Mukul R. Prasad},\n  title        = {Elixir: Effective object-oriented program repair},\n  journal      = {CoRR},\n  volume       = {abs/2112.10915},\n  year         = {2021},\n  url          = {https://arxiv.org/abs/2112.10915},\n  eprinttype    = {arXiv},\n  eprint       = {2112.10915},\n  timestamp    = {Tue, 04 Jan 2022 15:59:27 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2112-10915.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

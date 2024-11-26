@@ -1,0 +1,26 @@
+{
+    "Title": "LSRepair: Live search of fix ingredients for automated program repair",
+    "APR Tool Name": "LSRepair",
+    "Authors": [
+        "Kui Liu",
+        "Anil Koyuncu",
+        "Kisub Kim",
+        "Dongsun Kim",
+        "Tegawend\\'e F. Bissyand\\'e"
+    ],
+    "Year": "2018",
+    "Venue": "APSEC",
+    "Repo URL": "https://github.com/AutoProRepair/LSRepair",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/apsec/LiuKK0B18,\n  author       = {Kui Liu and\n                  Anil Koyuncu and\n                  Kisub Kim and\n                  Dongsun Kim and\n                  Tegawend{\\'{e}} F. Bissyand{\\'{e}}},\n  title        = {LSRepair: Live Search of Fix Ingredients for Automated Program Repair},\n  booktitle    = {25th Asia-Pacific Software Engineering Conference, {APSEC} 2018, Nara,\n                  Japan, December 4-7, 2018},\n  pages        = {658--662},\n  publisher    = {{IEEE}},\n  year         = {2018},\n  url          = {https://doi.org/10.1109/APSEC.2018.00085},\n  doi          = {10.1109/APSEC.2018.00085},\n  timestamp    = {Sat, 30 Sep 2023 09:34:34 +0200},\n  biburl       = {https://dblp.org/rec/conf/apsec/LiuKK0B18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

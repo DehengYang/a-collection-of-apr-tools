@@ -1,0 +1,25 @@
+{
+    "Title": "Repairing crashes in android apps",
+    "APR Tool Name": "Droix",
+    "Authors": [
+        "Shin Hwei Tan",
+        "Zhen Dong",
+        "Xiang Gao",
+        "Abhik Roychoudhury"
+    ],
+    "Year": "2018",
+    "Venue": "ICSE",
+    "Repo URL": "https://github.com/stan6/droixbench",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "DroixBench"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/TanDGR18,\n  author       = {Shin Hwei Tan and\n                  Zhen Dong and\n                  Xiang Gao and\n                  Abhik Roychoudhury},\n  editor       = {Michel Chaudron and\n                  Ivica Crnkovic and\n                  Marsha Chechik and\n                  Mark Harman},\n  title        = {Repairing crashes in Android apps},\n  booktitle    = {Proceedings of the 40th International Conference on Software Engineering,\n                  {ICSE} 2018, Gothenburg, Sweden, May 27 - June 03, 2018},\n  pages        = {187--198},\n  publisher    = {{ACM}},\n  year         = {2018},\n  url          = {https://doi.org/10.1145/3180155.3180243},\n  doi          = {10.1145/3180155.3180243},\n  timestamp    = {Fri, 14 Jan 2022 07:46:54 +0100},\n  biburl       = {https://dblp.org/rec/conf/icse/TanDGR18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

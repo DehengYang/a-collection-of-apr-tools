@@ -1,0 +1,27 @@
+{
+    "Title": "CoCoNuT: combining context-aware neural translation models using ensemble for program repair",
+    "APR Tool Name": "CoCoNuT",
+    "Authors": [
+        "Thibaud Lutellier",
+        "Hung Viet Pham",
+        "Lawrence Pang",
+        "Yitong Li",
+        "Moshi Wei",
+        "Lin Tan"
+    ],
+    "Year": "2020",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/lin-tan/CoCoNut-Artifact",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/issta/LutellierPPLW020,\n  author       = {Thibaud Lutellier and\n                  Hung Viet Pham and\n                  Lawrence Pang and\n                  Yitong Li and\n                  Moshi Wei and\n                  Lin Tan},\n  editor       = {Sarfraz Khurshid and\n                  Corina S. Pasareanu},\n  title        = {CoCoNuT: combining context-aware neural translation models using ensemble\n                  for program repair},\n  booktitle    = {{ISSTA} '20: 29th {ACM} {SIGSOFT} International Symposium on Software\n                  Testing and Analysis, Virtual Event, USA, July 18-22, 2020},\n  pages        = {101--114},\n  publisher    = {{ACM}},\n  year         = {2020},\n  url          = {https://doi.org/10.1145/3395363.3397369},\n  doi          = {10.1145/3395363.3397369},\n  timestamp    = {Tue, 21 Mar 2023 20:58:38 +0100},\n  biburl       = {https://dblp.org/rec/conf/issta/LutellierPPLW020.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

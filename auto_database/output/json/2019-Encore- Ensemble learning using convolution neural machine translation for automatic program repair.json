@@ -1,0 +1,26 @@
+{
+    "Title": "Encore: Ensemble learning using convolution neural machine translation for automatic program repair",
+    "APR Tool Name": "ENCORE",
+    "Authors": [
+        "Thibaud Lutellier",
+        "Lawrence Pang",
+        "Hung Viet Pham",
+        "Moshi Wei",
+        "Lin Tan"
+    ],
+    "Year": "2019",
+    "Venue": "arxiv",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-1906-08691,\n  author       = {Thibaud Lutellier and\n                  Lawrence Pang and\n                  Hung Viet Pham and\n                  Moshi Wei and\n                  Lin Tan},\n  title        = {{ENCORE:} Ensemble Learning using Convolution Neural Machine Translation\n                  for Automatic Program Repair},\n  journal      = {CoRR},\n  volume       = {abs/1906.08691},\n  year         = {2019},\n  url          = {http://arxiv.org/abs/1906.08691},\n  eprinttype    = {arXiv},\n  eprint       = {1906.08691},\n  timestamp    = {Mon, 24 Jun 2019 17:28:45 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-1906-08691.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

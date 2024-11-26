@@ -1,0 +1,23 @@
+{
+    "Title": "MCRepair: Multi-Chunk Program Repair via Patch Optimization with Buggy Block",
+    "APR Tool Name": "MCRepair",
+    "Authors": [
+        "Jisung Kim",
+        "Byungjeong Lee"
+    ],
+    "Year": "2023",
+    "Venue": "SAC",
+    "Repo URL": "https://github.com/kimjisung78/MCRepair",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/sac/KimL23,\n  author       = {Jisung Kim and\n                  Byungjeong Lee},\n  editor       = {Jiman Hong and\n                  Maart Lanperne and\n                  Juw Won Park and\n                  Tom{\\'{a}}s Cern{\\'{y}} and\n                  Hossain Shahriar},\n  title        = {MCRepair: Multi-Chunk Program Repair via Patch Optimization with Buggy\n                  Block},\n  booktitle    = {Proceedings of the 38th {ACM/SIGAPP} Symposium on Applied Computing,\n                  {SAC} 2023, Tallinn, Estonia, March 27-31, 2023},\n  pages        = {1508--1515},\n  publisher    = {{ACM}},\n  year         = {2023},\n  url          = {https://doi.org/10.1145/3555776.3577762},\n  doi          = {10.1145/3555776.3577762},\n  timestamp    = {Fri, 21 Jul 2023 22:25:35 +0200},\n  biburl       = {https://dblp.org/rec/conf/sac/KimL23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

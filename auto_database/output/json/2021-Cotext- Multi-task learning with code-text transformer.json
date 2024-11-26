@@ -1,0 +1,28 @@
+{
+    "Title": "Cotext: Multi-task learning with code-text transformer",
+    "APR Tool Name": "CoTexT",
+    "Authors": [
+        "Long N. Phan",
+        "Hieu Tran",
+        "Daniel Le",
+        "Hieu Nguyen",
+        "James T. Anibal",
+        "Alec Peltekian",
+        "Yanfang Ye"
+    ],
+    "Year": "2021",
+    "Venue": "1st  Workshop on Natural Language Processing for Programming (NLP4Prog 2021)",
+    "Repo URL": "https://github.com/justinphan3110/CoTexT",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "CodeXGlue"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2105-08645,\n  author       = {Long N. Phan and\n                  Hieu Tran and\n                  Daniel Le and\n                  Hieu Nguyen and\n                  James T. Anibal and\n                  Alec Peltekian and\n                  Yanfang Ye},\n  title        = {CoTexT: Multi-task Learning with Code-Text Transformer},\n  journal      = {CoRR},\n  volume       = {abs/2105.08645},\n  year         = {2021},\n  url          = {https://arxiv.org/abs/2105.08645},\n  eprinttype    = {arXiv},\n  eprint       = {2105.08645},\n  timestamp    = {Tue, 18 Oct 2022 14:44:48 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2105-08645.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

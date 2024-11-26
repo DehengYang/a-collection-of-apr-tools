@@ -1,0 +1,28 @@
+{
+    "Title": "Fixminer: Mining relevant fix patterns for automated program repair",
+    "APR Tool Name": "FixMiner",
+    "Authors": [
+        "Anil Koyuncu",
+        "Kui Liu",
+        "Tegawend\\'e F. Bissyand\\'e",
+        "Dongsun Kim",
+        "Jacques Klein",
+        "Martin Monperrus",
+        "Yves Le Traon"
+    ],
+    "Year": "2020",
+    "Venue": "EMSE",
+    "Repo URL": "https://github.com/SerVal-DTF/fixminer-core",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/ese/KoyuncuLBKKMT20,\n  author       = {Anil Koyuncu and\n                  Kui Liu and\n                  Tegawend{\\'{e}} F. Bissyand{\\'{e}} and\n                  Dongsun Kim and\n                  Jacques Klein and\n                  Martin Monperrus and\n                  Yves Le Traon},\n  title        = {FixMiner: Mining relevant fix patterns for automated program repair},\n  journal      = {Empir. Softw. Eng.},\n  volume       = {25},\n  number       = {3},\n  pages        = {1980--2024},\n  year         = {2020},\n  url          = {https://doi.org/10.1007/s10664-019-09780-z},\n  doi          = {10.1007/S10664-019-09780-Z},\n  timestamp    = {Sat, 30 Sep 2023 10:12:48 +0200},\n  biburl       = {https://dblp.org/rec/journals/ese/KoyuncuLBKKMT20.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

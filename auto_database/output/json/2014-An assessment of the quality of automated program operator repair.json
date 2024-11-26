@@ -1,0 +1,23 @@
+{
+    "Title": "An assessment of the quality of automated program operator repair",
+    "APR Tool Name": "MUT-APR",
+    "Authors": [
+        "Fatmah Yousef Assiri",
+        "James M. Bieman"
+    ],
+    "Year": "2014",
+    "Venue": "ICST",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "Siemens suite"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icst/AssiriB14,\n  author       = {Fatmah Yousef Assiri and\n                  James M. Bieman},\n  title        = {An Assessment of the Quality of Automated Program Operator Repair},\n  booktitle    = {Seventh {IEEE} International Conference on Software Testing, Verification\n                  and Validation, {ICST} 2014, March 31 2014-April 4, 2014, Cleveland,\n                  Ohio, {USA}},\n  pages        = {273--282},\n  publisher    = {{IEEE} Computer Society},\n  year         = {2014},\n  url          = {https://doi.org/10.1109/ICST.2014.40},\n  doi          = {10.1109/ICST.2014.40},\n  timestamp    = {Thu, 23 Mar 2023 23:58:21 +0100},\n  biburl       = {https://dblp.org/rec/conf/icst/AssiriB14.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

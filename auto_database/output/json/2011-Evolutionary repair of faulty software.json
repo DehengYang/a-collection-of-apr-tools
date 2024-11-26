@@ -1,0 +1,22 @@
+{
+    "Title": "Evolutionary repair of faulty software",
+    "APR Tool Name": "JAFF",
+    "Authors": [
+        "Andrea Arcuri"
+    ],
+    "Year": "2011",
+    "Venue": "Applied soft computing",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "java programs mutated by MuJava"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/asc/Arcuri11,\n  author       = {Andrea Arcuri},\n  title        = {Evolutionary repair of faulty software},\n  journal      = {Appl. Soft Comput.},\n  volume       = {11},\n  number       = {4},\n  pages        = {3494--3514},\n  year         = {2011},\n  url          = {https://doi.org/10.1016/j.asoc.2011.01.023},\n  doi          = {10.1016/J.ASOC.2011.01.023},\n  timestamp    = {Fri, 26 May 2017 22:54:33 +0200},\n  biburl       = {https://dblp.org/rec/journals/asc/Arcuri11.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

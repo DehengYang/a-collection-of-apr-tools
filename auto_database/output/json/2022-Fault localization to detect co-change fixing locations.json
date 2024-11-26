@@ -1,0 +1,24 @@
+{
+    "Title": "Fault localization to detect co-change fixing locations",
+    "APR Tool Name": "FixLocator-CURE",
+    "Authors": [
+        "Yi Li",
+        "Shaohua Wang",
+        "Tien N. Nguyen"
+    ],
+    "Year": "2022",
+    "Venue": "FSE",
+    "Repo URL": "https://github.com/fixlocatorresearch/fixlocatorresearch",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/sigsoft/Li0N22a,\n  author       = {Yi Li and\n                  Shaohua Wang and\n                  Tien N. Nguyen},\n  editor       = {Abhik Roychoudhury and\n                  Cristian Cadar and\n                  Miryung Kim},\n  title        = {Fault localization to detect co-change fixing locations},\n  booktitle    = {Proceedings of the 30th {ACM} Joint European Software Engineering\n                  Conference and Symposium on the Foundations of Software Engineering,\n                  {ESEC/FSE} 2022, Singapore, Singapore, November 14-18, 2022},\n  pages        = {659--671},\n  publisher    = {{ACM}},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3540250.3549137},\n  doi          = {10.1145/3540250.3549137},\n  timestamp    = {Thu, 10 Nov 2022 12:19:51 +0100},\n  biburl       = {https://dblp.org/rec/conf/sigsoft/Li0N22a.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,26 @@
+{
+    "Title": "SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics",
+    "APR Tool Name": "SelfAPR",
+    "Authors": [
+        "He Ye",
+        "Matias Martinez",
+        "Xiapu Luo",
+        "Tao Zhang",
+        "Martin Monperrus"
+    ],
+    "Year": "2022",
+    "Venue": "ASE",
+    "Repo URL": "https://github.com/SophieHYe/SelfAPR",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/kbse/YeML0M22,\n  author       = {He Ye and\n                  Matias Martinez and\n                  Xiapu Luo and\n                  Tao Zhang and\n                  Martin Monperrus},\n  title        = {SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics},\n  booktitle    = {37th {IEEE/ACM} International Conference on Automated Software Engineering,\n                  {ASE} 2022, Rochester, MI, USA, October 10-14, 2022},\n  pages        = {92:1--92:13},\n  publisher    = {{ACM}},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3551349.3556926},\n  doi          = {10.1145/3551349.3556926},\n  timestamp    = {Wed, 18 Jan 2023 13:42:48 +0100},\n  biburl       = {https://dblp.org/rec/conf/kbse/YeML0M22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

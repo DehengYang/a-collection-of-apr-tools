@@ -1,0 +1,23 @@
+{
+    "Title": "ARJA: Automated repair of java programs via multi-objective genetic programming",
+    "APR Tool Name": "Arja",
+    "Authors": [
+        "Yuan Yuan",
+        "Wolfgang Banzhaf"
+    ],
+    "Year": "2020",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/yyxhdy/arja",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defectsj4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/tse/YuanB20,\n  author       = {Yuan Yuan and\n                  Wolfgang Banzhaf},\n  title        = {{ARJA:} Automated Repair of Java Programs via Multi-Objective Genetic\n                  Programming},\n  journal      = {{IEEE} Trans. Software Eng.},\n  volume       = {46},\n  number       = {10},\n  pages        = {1040--1067},\n  year         = {2020},\n  url          = {https://doi.org/10.1109/TSE.2018.2874648},\n  doi          = {10.1109/TSE.2018.2874648},\n  timestamp    = {Sat, 14 Nov 2020 00:56:48 +0100},\n  biburl       = {https://dblp.org/rec/journals/tse/YuanB20.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

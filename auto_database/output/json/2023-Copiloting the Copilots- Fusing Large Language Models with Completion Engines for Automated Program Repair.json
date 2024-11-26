@@ -1,0 +1,24 @@
+{
+    "Title": "Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair",
+    "APR Tool Name": "Repilot",
+    "Authors": [
+        "Yuxiang Wei",
+        "Chunqiu Steven Xia",
+        "Lingming Zhang"
+    ],
+    "Year": "2023",
+    "Venue": "FSE",
+    "Repo URL": "https://github.com/ise-uiuc/Repilot",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/sigsoft/0003X023,\n  author       = {Yuxiang Wei and\n                  Chunqiu Steven Xia and\n                  Lingming Zhang},\n  editor       = {Satish Chandra and\n                  Kelly Blincoe and\n                  Paolo Tonella},\n  title        = {Copiloting the Copilots: Fusing Large Language Models with Completion\n                  Engines for Automated Program Repair},\n  booktitle    = {Proceedings of the 31st {ACM} Joint European Software Engineering\n                  Conference and Symposium on the Foundations of Software Engineering,\n                  {ESEC/FSE} 2023, San Francisco, CA, USA, December 3-9, 2023},\n  pages        = {172--184},\n  publisher    = {{ACM}},\n  year         = {2023},\n  url          = {https://doi.org/10.1145/3611643.3616271},\n  doi          = {10.1145/3611643.3616271},\n  timestamp    = {Fri, 31 May 2024 21:05:31 +0200},\n  biburl       = {https://dblp.org/rec/conf/sigsoft/0003X023.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}
