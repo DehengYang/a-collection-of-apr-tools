@@ -1,0 +1,25 @@
+{
+    "Title": "RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair",
+    "APR Tool Name": "RepairLLaMA",
+    "Authors": [
+        "Andr\\'e Silva",
+        "Sen Fang",
+        "Martin Monperrus"
+    ],
+    "Year": "2023",
+    "Venue": "arxiv",
+    "Repo URL": "https://github.com/ASSERT-KTH/repairllama",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "HumanEval-Java"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2312-15698,\n  author       = {Andr{\\'{e}} Silva and\n                  Sen Fang and\n                  Martin Monperrus},\n  title        = {RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for\n                  Program Repair},\n  journal      = {CoRR},\n  volume       = {abs/2312.15698},\n  year         = {2023},\n  url          = {https://doi.org/10.48550/arXiv.2312.15698},\n  doi          = {10.48550/ARXIV.2312.15698},\n  eprinttype    = {arXiv},\n  eprint       = {2312.15698},\n  timestamp    = {Tue, 16 Jan 2024 13:55:54 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2312-15698.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,21 @@
+{
+    "Title": "Enhancing Automated Program Repair with Solution Design",
+    "APR Tool Name": "DRCodePilot",
+    "Authors": [],
+    "Year": 2024,
+    "Venue": "ASE",
+    "Repo URL": "https://figshare.com/s/82ed8e86e88d3268b4c1",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Flink",
+        "Solr"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,28 @@
+{
+    "Title": "TransplantFix: Graph Differencing-based Code Transplantation for Automated Program Repair",
+    "APR Tool Name": "TransplantFix",
+    "Authors": [
+        "Deheng Yang",
+        "Xiaoguang Mao",
+        "Liqian Chen",
+        "Xuezheng Xu",
+        "Yan Lei",
+        "David Lo",
+        "Jiayu He"
+    ],
+    "Year": "2022",
+    "Venue": "ASE",
+    "Repo URL": "https://github.com/DehengYang/TransplantFix",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/kbse/YangMCXL0H22,\n  author       = {Deheng Yang and\n                  Xiaoguang Mao and\n                  Liqian Chen and\n                  Xuezheng Xu and\n                  Yan Lei and\n                  David Lo and\n                  Jiayu He},\n  title        = {TransplantFix: Graph Differencing-based Code Transplantation for Automated\n                  Program Repair},\n  booktitle    = {37th {IEEE/ACM} International Conference on Automated Software Engineering,\n                  {ASE} 2022, Rochester, MI, USA, October 10-14, 2022},\n  pages        = {107:1--107:13},\n  publisher    = {{ACM}},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3551349.3556893},\n  doi          = {10.1145/3551349.3556893},\n  timestamp    = {Sat, 30 Sep 2023 09:51:42 +0200},\n  biburl       = {https://dblp.org/rec/conf/kbse/YangMCXL0H22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,23 @@
+{
+    "Title": "Majority Rule: better patching via Self-Consistency",
+    "APR Tool Name": "Code-DaVinci-002 with S-C",
+    "Authors": [
+        "Toufique Ahmed",
+        "Premkumar T. Devanbu"
+    ],
+    "Year": "2023",
+    "Venue": "arxiv",
+    "Repo URL": "https://doi.org/10.5281/zenodo.7968641",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "MODIT dataset"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-2306-00108,\n  author       = {Toufique Ahmed and\n                  Premkumar T. Devanbu},\n  title        = {Majority Rule: better patching via Self-Consistency},\n  journal      = {CoRR},\n  volume       = {abs/2306.00108},\n  year         = {2023},\n  url          = {https://doi.org/10.48550/arXiv.2306.00108},\n  doi          = {10.48550/ARXIV.2306.00108},\n  eprinttype    = {arXiv},\n  eprint       = {2306.00108},\n  timestamp    = {Mon, 12 Jun 2023 16:25:59 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-2306-00108.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

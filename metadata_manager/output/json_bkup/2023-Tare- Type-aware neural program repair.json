@@ -1,0 +1,28 @@
+{
+    "Title": "Tare: Type-aware neural program repair",
+    "APR Tool Name": "Tare",
+    "Authors": [
+        "Qihao Zhu",
+        "Zeyu Sun",
+        "Wenjie Zhang",
+        "Yingfei Xiong",
+        "Lu Zhang"
+    ],
+    "Year": "2023",
+    "Venue": "ICSE",
+    "Repo URL": "https://doi.org/10.5281/zenodo.7029404",
+    "Target Language": [
+        "Java",
+        "Python"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "QuixBugs"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/ZhuSZXZ23,\n  author       = {Qihao Zhu and\n                  Zeyu Sun and\n                  Wenjie Zhang and\n                  Yingfei Xiong and\n                  Lu Zhang},\n  title        = {Tare: Type-Aware Neural Program Repair},\n  booktitle    = {45th {IEEE/ACM} International Conference on Software Engineering,\n                  {ICSE} 2023, Melbourne, Australia, May 14-20, 2023},\n  pages        = {1443--1455},\n  publisher    = {{IEEE}},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/ICSE48619.2023.00126},\n  doi          = {10.1109/ICSE48619.2023.00126},\n  timestamp    = {Sat, 26 Aug 2023 22:01:09 +0200},\n  biburl       = {https://dblp.org/rec/conf/icse/ZhuSZXZ23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

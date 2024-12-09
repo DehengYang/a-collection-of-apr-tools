@@ -1,0 +1,26 @@
+{
+    "Title": "Shaping program repair space with existing patches and similar code",
+    "APR Tool Name": "SimFix",
+    "Authors": [
+        "Jiajun Jiang",
+        "Yingfei Xiong",
+        "Hongyu Zhang",
+        "Qing Gao",
+        "Xiangqun Chen"
+    ],
+    "Year": "2018",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/xgdsmileboy/SimFix",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/issta/JiangXZGC18,\n  author       = {Jiajun Jiang and\n                  Yingfei Xiong and\n                  Hongyu Zhang and\n                  Qing Gao and\n                  Xiangqun Chen},\n  editor       = {Frank Tip and\n                  Eric Bodden},\n  title        = {Shaping program repair space with existing patches and similar code},\n  booktitle    = {Proceedings of the 27th {ACM} {SIGSOFT} International Symposium on\n                  Software Testing and Analysis, {ISSTA} 2018, Amsterdam, The Netherlands,\n                  July 16-21, 2018},\n  pages        = {298--309},\n  publisher    = {{ACM}},\n  year         = {2018},\n  url          = {https://doi.org/10.1145/3213846.3213871},\n  doi          = {10.1145/3213846.3213871},\n  timestamp    = {Mon, 03 Jan 2022 22:21:03 +0100},\n  biburl       = {https://dblp.org/rec/conf/issta/JiangXZGC18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

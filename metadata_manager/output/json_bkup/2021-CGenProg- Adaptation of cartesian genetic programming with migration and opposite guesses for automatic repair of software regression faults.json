@@ -1,0 +1,24 @@
+{
+    "Title": "CGenProg: Adaptation of cartesian genetic programming with migration and opposite guesses for automatic repair of software regression faults",
+    "APR Tool Name": "CGenProg",
+    "Authors": [
+        "Alireza Khalilian",
+        "Ahmad Baraani-Dastjerdi",
+        "Bahman Zamani"
+    ],
+    "Year": "2021",
+    "Venue": "Expert Systems with Applications",
+    "Repo URL": "https://github.com/akhalilian/CGenProg",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Code4Bench"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/eswa/KhalilianBZ21,\n  author       = {Alireza Khalilian and\n                  Ahmad Baraani{-}Dastjerdi and\n                  Bahman Zamani},\n  title        = {CGenProg: Adaptation of cartesian genetic programming with migration\n                  and opposite guesses for automatic repair of software regression faults},\n  journal      = {Expert Syst. Appl.},\n  volume       = {169},\n  pages        = {114503},\n  year         = {2021},\n  url          = {https://doi.org/10.1016/j.eswa.2020.114503},\n  doi          = {10.1016/J.ESWA.2020.114503},\n  timestamp    = {Fri, 09 Apr 2021 18:19:16 +0200},\n  biburl       = {https://dblp.org/rec/journals/eswa/KhalilianBZ21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

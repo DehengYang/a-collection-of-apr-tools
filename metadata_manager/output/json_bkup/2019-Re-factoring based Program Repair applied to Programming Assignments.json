@@ -1,0 +1,26 @@
+{
+    "Title": "Re-factoring based Program Repair applied to Programming Assignments",
+    "APR Tool Name": "Refactory",
+    "Authors": [
+        "Yang Hu",
+        "Umair Z. Ahmed",
+        "Sergey Mechtaev",
+        "Ben Leong",
+        "Abhik Roychoudhury"
+    ],
+    "Year": "2019",
+    "Venue": "ASE",
+    "Repo URL": "https://github.com/githubhuyang/refactory",
+    "Target Language": [
+        "Python"
+    ],
+    "Used Dataset": [
+        "1800 real-life incorrect Python program submissions from 361 students for an introductory programming course at a large public university"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/kbse/HuAMLR19,\n  author       = {Yang Hu and\n                  Umair Z. Ahmed and\n                  Sergey Mechtaev and\n                  Ben Leong and\n                  Abhik Roychoudhury},\n  title        = {Re-Factoring Based Program Repair Applied to Programming Assignments},\n  booktitle    = {34th {IEEE/ACM} International Conference on Automated Software Engineering,\n                  {ASE} 2019, San Diego, CA, USA, November 11-15, 2019},\n  pages        = {388--398},\n  publisher    = {{IEEE}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/ASE.2019.00044},\n  doi          = {10.1109/ASE.2019.00044},\n  timestamp    = {Sun, 25 Oct 2020 23:06:39 +0100},\n  biburl       = {https://dblp.org/rec/conf/kbse/HuAMLR19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

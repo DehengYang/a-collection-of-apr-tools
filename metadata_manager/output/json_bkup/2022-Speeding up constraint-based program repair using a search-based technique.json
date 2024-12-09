@@ -1,0 +1,23 @@
+{
+    "Title": "Speeding up constraint-based program repair using a search-based technique",
+    "APR Tool Name": "FAngelix",
+    "Authors": [
+        "Jooyong Yi",
+        "Elkhan Ismayilzada"
+    ],
+    "Year": "2022",
+    "Venue": "IST",
+    "Repo URL": "https://github.com/jyi/fangelix",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "50 buggy versions of 5 real-world subjects"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/infsof/YiI22,\n  author       = {Jooyong Yi and\n                  Elkhan Ismayilzada},\n  title        = {Speeding up constraint-based program repair using a search-based technique},\n  journal      = {Inf. Softw. Technol.},\n  volume       = {146},\n  pages        = {106865},\n  year         = {2022},\n  url          = {https://doi.org/10.1016/j.infsof.2022.106865},\n  doi          = {10.1016/J.INFSOF.2022.106865},\n  timestamp    = {Sat, 30 Sep 2023 10:16:47 +0200},\n  biburl       = {https://dblp.org/rec/journals/infsof/YiI22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

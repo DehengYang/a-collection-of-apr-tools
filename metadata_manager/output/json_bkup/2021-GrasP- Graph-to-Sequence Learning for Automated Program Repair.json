@@ -1,0 +1,27 @@
+{
+    "Title": "GrasP: Graph-to-Sequence Learning for Automated Program Repair",
+    "APR Tool Name": "GrasP",
+    "Authors": [
+        "Ben Tang",
+        "Bin Li",
+        "Lili Bo",
+        "Xiaoxue Wu",
+        "Sicong Cao",
+        "Xiaobing Sun"
+    ],
+    "Year": "2021",
+    "Venue": "QRS-C",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/qrs/TangLBWCS21,\n  author       = {Ben Tang and\n                  Bin Li and\n                  Lili Bo and\n                  Xiaoxue Wu and\n                  Sicong Cao and\n                  Xiaobing Sun},\n  title        = {GrasP: Graph-to-Sequence Learning for Automated Program Repair},\n  booktitle    = {21st {IEEE} International Conference on Software Quality, Reliability\n                  and Security, {QRS} 2021, Hainan, China, December 6-10, 2021},\n  pages        = {819--828},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/QRS54544.2021.00091},\n  doi          = {10.1109/QRS54544.2021.00091},\n  timestamp    = {Tue, 05 Nov 2024 10:49:38 +0100},\n  biburl       = {https://dblp.org/rec/conf/qrs/TangLBWCS21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

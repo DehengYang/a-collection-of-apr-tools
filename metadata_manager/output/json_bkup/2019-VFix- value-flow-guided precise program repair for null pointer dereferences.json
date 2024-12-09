@@ -1,0 +1,25 @@
+{
+    "Title": "VFix: value-flow-guided precise program repair for null pointer dereferences",
+    "APR Tool Name": "VFix",
+    "Authors": [
+        "Xuezheng Xu",
+        "Yulei Sui",
+        "Hua Yan",
+        "Jingling Xue"
+    ],
+    "Year": "2019",
+    "Venue": "ICSE",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/XuSYX19,\n  author       = {Xuezheng Xu and\n                  Yulei Sui and\n                  Hua Yan and\n                  Jingling Xue},\n  editor       = {Joanne M. Atlee and\n                  Tevfik Bultan and\n                  Jon Whittle},\n  title        = {VFix: value-flow-guided precise program repair for null pointer dereferences},\n  booktitle    = {Proceedings of the 41st International Conference on Software Engineering,\n                  {ICSE} 2019, Montreal, QC, Canada, May 25-31, 2019},\n  pages        = {512--523},\n  publisher    = {{IEEE} / {ACM}},\n  year         = {2019},\n  url          = {https://doi.org/10.1109/ICSE.2019.00063},\n  doi          = {10.1109/ICSE.2019.00063},\n  timestamp    = {Tue, 24 May 2022 15:28:49 +0200},\n  biburl       = {https://dblp.org/rec/conf/icse/XuSYX19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

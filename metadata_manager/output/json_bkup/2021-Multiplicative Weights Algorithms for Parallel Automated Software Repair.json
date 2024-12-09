@@ -1,0 +1,26 @@
+{
+    "Title": "Multiplicative Weights Algorithms for Parallel Automated Software Repair",
+    "APR Tool Name": "MWRepair",
+    "Authors": [
+        "Joseph Renzullo",
+        "Westley Weimer",
+        "Stephanie Forrest"
+    ],
+    "Year": "2021",
+    "Venue": "IPDPS",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "ManyBugs",
+        "units",
+        "Defects4J"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/ipps/RenzulloWF21,\n  author       = {Joseph Renzullo and\n                  Westley Weimer and\n                  Stephanie Forrest},\n  title        = {Multiplicative Weights Algorithms for Parallel Automated Software\n                  Repair},\n  booktitle    = {35th {IEEE} International Parallel and Distributed Processing Symposium,\n                  {IPDPS} 2021, Portland, OR, USA, May 17-21, 2021},\n  pages        = {984--993},\n  publisher    = {{IEEE}},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/IPDPS49936.2021.00107},\n  doi          = {10.1109/IPDPS49936.2021.00107},\n  timestamp    = {Tue, 21 Mar 2023 20:56:43 +0100},\n  biburl       = {https://dblp.org/rec/conf/ipps/RenzulloWF21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

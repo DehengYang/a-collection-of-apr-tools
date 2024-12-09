@@ -1,0 +1,28 @@
+{
+    "Title": "Improving source-code representations to enhance search-based software repair",
+    "APR Tool Name": "PREP-Prophet",
+    "Authors": [
+        "Pemma Reiter",
+        "Antonio M. Espinoza",
+        "Adam Doup\\'e",
+        "Ruoyu Wang",
+        "Westley Weimer",
+        "Stephanie Forrest"
+    ],
+    "Year": "2022",
+    "Venue": "Proceedings of the Genetic and Evolutionary Computation Conference",
+    "Repo URL": "https://github.com/amespi22/code_rewrite",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "the Codeflaws dataset",
+        "the DARPA Cyber Grand Challenge dataset (CGC)"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/gecco/ReiterED0WF22,\n  author       = {Pemma Reiter and\n                  Antonio M. Espinoza and\n                  Adam Doup{\\'{e}} and\n                  Ruoyu Wang and\n                  Westley Weimer and\n                  Stephanie Forrest},\n  editor       = {Jonathan E. Fieldsend and\n                  Markus Wagner},\n  title        = {Improving source-code representations to enhance search-based software\n                  repair},\n  booktitle    = {{GECCO} '22: Genetic and Evolutionary Computation Conference, Boston,\n                  Massachusetts, USA, July 9 - 13, 2022},\n  pages        = {1336--1344},\n  publisher    = {{ACM}},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3512290.3528864},\n  doi          = {10.1145/3512290.3528864},\n  timestamp    = {Tue, 12 Jul 2022 15:39:29 +0200},\n  biburl       = {https://dblp.org/rec/conf/gecco/ReiterED0WF22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

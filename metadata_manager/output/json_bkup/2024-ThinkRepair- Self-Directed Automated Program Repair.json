@@ -1,0 +1,28 @@
+{
+    "Title": "ThinkRepair: Self-Directed Automated Program Repair",
+    "APR Tool Name": "ThinkRepair",
+    "Authors": [
+        "Xin Yin",
+        "Chao Ni",
+        "Shaohua Wang",
+        "Zhenhao Li",
+        "Limin Zeng",
+        "Xiaohu Yang"
+    ],
+    "Year": "2024",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/vinci-grape/ThinkRepair",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "QuixBugs"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/issta/Yin00LZ024,\n  author       = {Xin Yin and\n                  Chao Ni and\n                  Shaohua Wang and\n                  Zhenhao Li and\n                  Limin Zeng and\n                  Xiaohu Yang},\n  editor       = {Maria Christakis and\n                  Michael Pradel},\n  title        = {ThinkRepair: Self-Directed Automated Program Repair},\n  booktitle    = {Proceedings of the 33rd {ACM} {SIGSOFT} International Symposium on\n                  Software Testing and Analysis, {ISSTA} 2024, Vienna, Austria, September\n                  16-20, 2024},\n  pages        = {1274--1286},\n  publisher    = {{ACM}},\n  year         = {2024},\n  url          = {https://doi.org/10.1145/3650212.3680359},\n  doi          = {10.1145/3650212.3680359},\n  timestamp    = {Mon, 07 Oct 2024 08:28:29 +0200},\n  biburl       = {https://dblp.org/rec/conf/issta/Yin00LZ024.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

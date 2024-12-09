@@ -1,0 +1,24 @@
+{
+    "Title": "Katana: Dual Slicing-Based Context for Learning Bug Fixes",
+    "APR Tool Name": "KATANA",
+    "Authors": [
+        "Mifta Sintaha",
+        "Noor Nashid",
+        "Ali Mesbah"
+    ],
+    "Year": "2023",
+    "Venue": "TOSEM",
+    "Repo URL": "-",
+    "Target Language": [
+        "JavaScript"
+    ],
+    "Used Dataset": [
+        "two separate datasets using our\nsingle and dual slicing techniques"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/tosem/SintahaNM23,\n  author       = {Mifta Sintaha and\n                  Noor Nashid and\n                  Ali Mesbah},\n  title        = {Katana: Dual Slicing Based Context for Learning Bug Fixes},\n  journal      = {{ACM} Trans. Softw. Eng. Methodol.},\n  volume       = {32},\n  number       = {4},\n  pages        = {100:1--100:27},\n  year         = {2023},\n  url          = {https://doi.org/10.1145/3579640},\n  doi          = {10.1145/3579640},\n  timestamp    = {Fri, 21 Jul 2023 22:26:32 +0200},\n  biburl       = {https://dblp.org/rec/journals/tosem/SintahaNM23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

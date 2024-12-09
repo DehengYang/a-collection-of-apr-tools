@@ -1,0 +1,23 @@
+{
+    "Title": "A novel co-evolutionary approach to automatic software bug fixing",
+    "APR Tool Name": "co-evolutionary-based APR",
+    "Authors": [
+        "Andrea Arcuri",
+        "Xin Yao"
+    ],
+    "Year": "2008",
+    "Venue": "2008 IEEE Congress on Evolutionary Computation (IEEE World Congress on Computational Intelligence)",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "a bubble-sort implementation"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/cec/ArcuriY08,\n  author       = {Andrea Arcuri and\n                  Xin Yao},\n  title        = {A novel co-evolutionary approach to automatic software bug fixing},\n  booktitle    = {Proceedings of the {IEEE} Congress on Evolutionary Computation, {CEC}\n                  2008, June 1-6, 2008, Hong Kong, China},\n  pages        = {162--168},\n  publisher    = {{IEEE}},\n  year         = {2008},\n  url          = {https://doi.org/10.1109/CEC.2008.4630793},\n  doi          = {10.1109/CEC.2008.4630793},\n  timestamp    = {Thu, 16 Dec 2021 14:01:33 +0100},\n  biburl       = {https://dblp.org/rec/conf/cec/ArcuriY08.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

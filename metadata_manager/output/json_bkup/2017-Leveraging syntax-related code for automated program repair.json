@@ -1,0 +1,23 @@
+{
+    "Title": "Leveraging syntax-related code for automated program repair",
+    "APR Tool Name": "ssFix",
+    "Authors": [
+        "Qi Xin",
+        "Steven P. Reiss"
+    ],
+    "Year": "2017",
+    "Venue": "ASE",
+    "Repo URL": "https://github.com/qixin5/ssFix",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/kbse/XinR17,\n  author       = {Qi Xin and\n                  Steven P. Reiss},\n  editor       = {Grigore Rosu and\n                  Massimiliano Di Penta and\n                  Tien N. Nguyen},\n  title        = {Leveraging syntax-related code for automated program repair},\n  booktitle    = {Proceedings of the 32nd {IEEE/ACM} International Conference on Automated\n                  Software Engineering, {ASE} 2017, Urbana, IL, USA, October 30 - November\n                  03, 2017},\n  pages        = {660--670},\n  publisher    = {{IEEE} Computer Society},\n  year         = {2017},\n  url          = {https://doi.org/10.1109/ASE.2017.8115676},\n  doi          = {10.1109/ASE.2017.8115676},\n  timestamp    = {Fri, 24 Mar 2023 00:02:36 +0100},\n  biburl       = {https://dblp.org/rec/conf/kbse/XinR17.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

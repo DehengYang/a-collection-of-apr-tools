@@ -1,0 +1,24 @@
+{
+    "Title": "Application of seq2seq models on code correction",
+    "APR Tool Name": "Pyramid encoder",
+    "Authors": [
+        "Shan Huang",
+        "Xiao Zhou",
+        "Sang Chin"
+    ],
+    "Year": "2021",
+    "Venue": "Frontiers in artificial intelligence",
+    "Repo URL": "https://github.com/b19e93n/PLC-Pyramid",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "Juliet Test Suite for C/C++ (v1.2)"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/frai/HuangZC21,\n  author       = {Shan Huang and\n                  Xiao Zhou and\n                  Sang Chin},\n  title        = {Application of Seq2Seq Models on Code Correction},\n  journal      = {Frontiers Artif. Intell.},\n  volume       = {4},\n  pages        = {590215},\n  year         = {2021},\n  url          = {https://doi.org/10.3389/frai.2021.590215},\n  doi          = {10.3389/FRAI.2021.590215},\n  timestamp    = {Sat, 30 Sep 2023 10:13:38 +0200},\n  biburl       = {https://dblp.org/rec/journals/frai/HuangZC21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

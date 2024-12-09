@@ -1,0 +1,24 @@
+{
+    "Title": "History driven program repair",
+    "APR Tool Name": "HDRepair",
+    "Authors": [
+        "Xuan-Bach Dinh Le",
+        "David Lo",
+        "Claire Le Goues"
+    ],
+    "Year": "2016",
+    "Venue": "SANER",
+    "Repo URL": "https://github.com/xuanbachle/bugfixes",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/wcre/LeLG16,\n  author       = {Xuan{-}Bach Dinh Le and\n                  David Lo and\n                  Claire {Le Goues}},\n  title        = {History Driven Program Repair},\n  booktitle    = {{IEEE} 23rd International Conference on Software Analysis, Evolution,\n                  and Reengineering, {SANER} 2016, Suita, Osaka, Japan, March 14-18,\n                  2016 - Volume 1},\n  pages        = {213--224},\n  publisher    = {{IEEE} Computer Society},\n  year         = {2016},\n  url          = {https://doi.org/10.1109/SANER.2016.76},\n  doi          = {10.1109/SANER.2016.76},\n  timestamp    = {Tue, 07 May 2024 20:11:25 +0200},\n  biburl       = {https://dblp.org/rec/conf/wcre/LeLG16.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

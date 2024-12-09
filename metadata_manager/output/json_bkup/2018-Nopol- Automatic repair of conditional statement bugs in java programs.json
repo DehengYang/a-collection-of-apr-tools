@@ -1,0 +1,29 @@
+{
+    "Title": "Nopol: Automatic repair of conditional statement bugs in java programs",
+    "APR Tool Name": "Nopol",
+    "Authors": [
+        "Jifeng Xuan",
+        "Matias Martinez",
+        "Favio Demarco",
+        "Maxime Cl\\'ement",
+        "Sebastian R. Lamelas Marcote",
+        "Thomas Durieux",
+        "Daniel Le Berre",
+        "Martin Monperrus"
+    ],
+    "Year": "2018",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/SpoonLabs/nopol/",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/abs-1811-04211,\n  author       = {Jifeng Xuan and\n                  Matias Martinez and\n                  Favio Demarco and\n                  Maxime Cl{\\'{e}}ment and\n                  Sebastian R. Lamelas Marcote and\n                  Thomas Durieux and\n                  Daniel Le Berre and\n                  Martin Monperrus},\n  title        = {Nopol: Automatic Repair of Conditional Statement Bugs in Java Programs},\n  journal      = {CoRR},\n  volume       = {abs/1811.04211},\n  year         = {2018},\n  url          = {http://arxiv.org/abs/1811.04211},\n  eprinttype    = {arXiv},\n  eprint       = {1811.04211},\n  timestamp    = {Fri, 23 Nov 2018 12:43:51 +0100},\n  biburl       = {https://dblp.org/rec/journals/corr/abs-1811-04211.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

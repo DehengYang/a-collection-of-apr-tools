@@ -1,0 +1,22 @@
+{
+    "Title": "Automatic patch generation learned from human-written patches",
+    "APR Tool Name": "Par",
+    "Authors": [
+        "Martin Monperrus"
+    ],
+    "Year": "2014",
+    "Venue": "ICSE",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "119 real bugs from open\nsource projects"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/icse/Monperrus14,\n  author       = {Martin Monperrus},\n  editor       = {Pankaj Jalote and\n                  Lionel C. Briand and\n                  Andr{\\'{e}} van der Hoek},\n  title        = {A critical review of \"automatic patch generation learned from human-written\n                  patches\": essay on the problem statement and the evaluation of automatic\n                  software repair},\n  booktitle    = {36th International Conference on Software Engineering, {ICSE} '14,\n                  Hyderabad, India - May 31 - June 07, 2014},\n  pages        = {234--242},\n  publisher    = {{ACM}},\n  year         = {2014},\n  url          = {https://doi.org/10.1145/2568225.2568324},\n  doi          = {10.1145/2568225.2568324},\n  timestamp    = {Wed, 14 Nov 2018 10:57:08 +0100},\n  biburl       = {https://dblp.org/rec/conf/icse/Monperrus14.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

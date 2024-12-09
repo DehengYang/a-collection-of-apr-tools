@@ -1,0 +1,25 @@
+{
+    "Title": "Npefix: Automatic runtime repair of null pointer exceptions in java",
+    "APR Tool Name": "NPEfix",
+    "Authors": [
+        "Benoit Cornu",
+        "Thomas Durieux",
+        "Lionel Seinturier",
+        "Martin Monperrus"
+    ],
+    "Year": "2015",
+    "Venue": "arxiv\n\nSANER",
+    "Repo URL": "https://github.com/SpoonLabs/npefix",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "16 real null pointer exceptions"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/CornuDSM15,\n  author       = {Benoit Cornu and\n                  Thomas Durieux and\n                  Lionel Seinturier and\n                  Martin Monperrus},\n  title        = {NPEFix: Automatic Runtime Repair of Null Pointer Exceptions in Java},\n  journal      = {CoRR},\n  volume       = {abs/1512.07423},\n  year         = {2015},\n  url          = {http://arxiv.org/abs/1512.07423},\n  eprinttype    = {arXiv},\n  eprint       = {1512.07423},\n  timestamp    = {Thu, 14 Oct 2021 09:14:11 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/CornuDSM15.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

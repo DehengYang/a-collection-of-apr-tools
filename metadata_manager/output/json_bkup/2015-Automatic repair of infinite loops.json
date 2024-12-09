@@ -1,0 +1,23 @@
+{
+    "Title": "Automatic repair of infinite loops",
+    "APR Tool Name": "Infinitel",
+    "Authors": [
+        "Sebastian R. Lamelas Marcote",
+        "Martin Monperrus"
+    ],
+    "Year": "2015",
+    "Venue": "arxiv",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "seven seeded-bugs and on seven real-bugs"
+    ],
+    "CCF Rank": "Other",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/corr/MarcoteM15,\n  author       = {Sebastian R. Lamelas Marcote and\n                  Martin Monperrus},\n  title        = {Automatic Repair of Infinite Loops},\n  journal      = {CoRR},\n  volume       = {abs/1504.05078},\n  year         = {2015},\n  url          = {http://arxiv.org/abs/1504.05078},\n  eprinttype    = {arXiv},\n  eprint       = {1504.05078},\n  timestamp    = {Mon, 13 Aug 2018 16:48:14 +0200},\n  biburl       = {https://dblp.org/rec/journals/corr/MarcoteM15.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

@@ -1,0 +1,28 @@
+{
+    "Title": "iFixR: bug report driven program repair",
+    "APR Tool Name": "iFixR",
+    "Authors": [
+        "Anil Koyuncu",
+        "Kui Liu",
+        "Tegawend\\'e F. Bissyand\\'e",
+        "Dongsun Kim",
+        "Martin Monperrus",
+        "Jacques Klein",
+        "Yves Le Traon"
+    ],
+    "Year": "2019",
+    "Venue": "FSE",
+    "Repo URL": "https://github.com/SerVal-DTF/iFixR",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@inproceedings{DBLP:conf/sigsoft/KoyuncuLB0MKT19,\n  author       = {Anil Koyuncu and\n                  Kui Liu and\n                  Tegawend{\\'{e}} F. Bissyand{\\'{e}} and\n                  Dongsun Kim and\n                  Martin Monperrus and\n                  Jacques Klein and\n                  Yves Le Traon},\n  editor       = {Marlon Dumas and\n                  Dietmar Pfahl and\n                  Sven Apel and\n                  Alessandra Russo},\n  title        = {iFixR: bug report driven program repair},\n  booktitle    = {Proceedings of the {ACM} Joint Meeting on European Software Engineering\n                  Conference and Symposium on the Foundations of Software Engineering,\n                  {ESEC/SIGSOFT} {FSE} 2019, Tallinn, Estonia, August 26-30, 2019},\n  pages        = {314--325},\n  publisher    = {{ACM}},\n  year         = {2019},\n  url          = {https://doi.org/10.1145/3338906.3338935},\n  doi          = {10.1145/3338906.3338935},\n  timestamp    = {Sat, 30 Sep 2023 09:56:36 +0200},\n  biburl       = {https://dblp.org/rec/conf/sigsoft/KoyuncuLB0MKT19.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

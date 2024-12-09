@@ -1,0 +1,27 @@
+{
+    "Title": "Restore: Retrospective fault localization enhancing automated program repair",
+    "APR Tool Name": "RESTORE",
+    "Authors": [
+        "Tongtong Xu",
+        "Liushan Chen",
+        "Yu Pei",
+        "Tian Zhang",
+        "Minxue Pan",
+        "Carlo A. Furia"
+    ],
+    "Year": "2022",
+    "Venue": "TSE",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/tse/XuCPZPF22,\n  author       = {Tongtong Xu and\n                  Liushan Chen and\n                  Yu Pei and\n                  Tian Zhang and\n                  Minxue Pan and\n                  Carlo A. Furia},\n  title        = {Restore: Retrospective Fault Localization Enhancing Automated Program\n                  Repair},\n  journal      = {{IEEE} Trans. Software Eng.},\n  volume       = {48},\n  number       = {2},\n  pages        = {309--326},\n  year         = {2022},\n  url          = {https://doi.org/10.1109/TSE.2020.2987862},\n  doi          = {10.1109/TSE.2020.2987862},\n  timestamp    = {Tue, 15 Mar 2022 10:21:35 +0100},\n  biburl       = {https://dblp.org/rec/journals/tse/XuCPZPF22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

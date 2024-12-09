@@ -1,0 +1,24 @@
+{
+    "Title": "Automated program repair using genetic programming and model checking",
+    "APR Tool Name": "JBF",
+    "Authors": [
+        "Zahra Zojaji",
+        "Behrouz Tork Ladani",
+        "Alireza Khalilian"
+    ],
+    "Year": "2016",
+    "Venue": "Applied Intelligence",
+    "Repo URL": "-",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "some concurrent and non-concurrent faulty programs"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/apin/ZojajiLK16,\n  author       = {Zahra Zojaji and\n                  Behrouz Tork Ladani and\n                  Alireza Khalilian},\n  title        = {Automated program repair using genetic programming and model checking},\n  journal      = {Appl. Intell.},\n  volume       = {45},\n  number       = {4},\n  pages        = {1066--1088},\n  year         = {2016},\n  url          = {https://doi.org/10.1007/s10489-016-0804-0},\n  doi          = {10.1007/S10489-016-0804-0},\n  timestamp    = {Thu, 14 Oct 2021 09:09:40 +0200},\n  biburl       = {https://dblp.org/rec/journals/apin/ZojajiLK16.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

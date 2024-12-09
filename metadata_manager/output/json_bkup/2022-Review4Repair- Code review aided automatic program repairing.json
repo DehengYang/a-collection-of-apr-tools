@@ -1,0 +1,27 @@
+{
+    "Title": "Review4Repair: Code review aided automatic program repairing",
+    "APR Tool Name": "Review4Repair",
+    "Authors": [
+        "Faria Huq",
+        "Masum Hasan",
+        "Md. Mahim Anjum Haque",
+        "Sazan Mahbub",
+        "Anindya Iqbal",
+        "Toufique Ahmed"
+    ],
+    "Year": "2022",
+    "Venue": "IST",
+    "Repo URL": "https://github.com/Review4Repair/Review4Repair",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Android dataset"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/infsof/HuqHHMIA22,\n  author       = {Faria Huq and\n                  Masum Hasan and\n                  Md. Mahim Anjum Haque and\n                  Sazan Mahbub and\n                  Anindya Iqbal and\n                  Toufique Ahmed},\n  title        = {Review4Repair: Code review aided automatic program repairing},\n  journal      = {Inf. Softw. Technol.},\n  volume       = {143},\n  pages        = {106765},\n  year         = {2022},\n  url          = {https://doi.org/10.1016/j.infsof.2021.106765},\n  doi          = {10.1016/J.INFSOF.2021.106765},\n  timestamp    = {Tue, 16 Aug 2022 23:05:32 +0200},\n  biburl       = {https://dblp.org/rec/journals/infsof/HuqHHMIA22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}

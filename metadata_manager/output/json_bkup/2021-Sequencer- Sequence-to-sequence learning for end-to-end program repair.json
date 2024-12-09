@@ -1,0 +1,27 @@
+{
+    "Title": "Sequencer: Sequence-to-sequence learning for end-to-end program repair",
+    "APR Tool Name": "SEQUENCER",
+    "Authors": [
+        "Zimin Chen",
+        "Steve Kommrusch",
+        "Michele Tufano",
+        "Louis-No\\\"el Pouchet",
+        "Denys Poshyvanyk",
+        "Martin Monperrus"
+    ],
+    "Year": "2021",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/KTH/chai",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "-",
+    "Bibtex": "@article{DBLP:journals/tse/ChenKTPPM21,\n  author       = {Zimin Chen and\n                  Steve Kommrusch and\n                  Michele Tufano and\n                  Louis{-}No{\\\"{e}}l Pouchet and\n                  Denys Poshyvanyk and\n                  Martin Monperrus},\n  title        = {SequenceR: Sequence-to-Sequence Learning for End-to-End Program Repair},\n  journal      = {{IEEE} Trans. Software Eng.},\n  volume       = {47},\n  number       = {9},\n  pages        = {1943--1959},\n  year         = {2021},\n  url          = {https://doi.org/10.1109/TSE.2019.2940179},\n  doi          = {10.1109/TSE.2019.2940179},\n  timestamp    = {Tue, 05 Oct 2021 10:02:46 +0200},\n  biburl       = {https://dblp.org/rec/journals/tse/ChenKTPPM21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "-",
+    "Tool Category": "-",
+    "Bug Types": "-"
+}
