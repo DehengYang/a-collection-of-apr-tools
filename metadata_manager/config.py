@@ -4,5 +4,5 @@ import os
 PROJ_DIR = Dir_util.get_cur_dir(__file__)
 
 OUTPUT_DIR = os.path.join(PROJ_DIR, "output")
-if os.path.exists(OUTPUT_DIR) == False:
+if not os.path.exists(OUTPUT_DIR):
     os.mkdir(OUTPUT_DIR)
