@@ -24,9 +24,6 @@ import pandas as pd
 def main():
     json_output_dir = os.path.join(config.OUTPUT_DIR, "json")
     json_files = glob.glob(f"{json_output_dir}/*.json")  # 获取所有 JSON 文件的路径
-    json_output_dir = os.path.join(config.OUTPUT_DIR, "json_new")
-    new_json_files = glob.glob(f"{json_output_dir}/*.json")
-    json_files.extend(new_json_files)
 
     df_new = pd.DataFrame(
         columns=[

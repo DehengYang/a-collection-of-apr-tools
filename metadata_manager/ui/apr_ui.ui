@@ -150,13 +150,13 @@ background-color:&quot;#F0CDB1&quot;;
                </widget>
               </item>
               <item row="1" column="1">
-               <widget class="QLineEdit" name="lineEdit_19"/>
+               <widget class="QLineEdit" name="lineEdit_year"/>
               </item>
               <item row="0" column="1">
-               <widget class="QLineEdit" name="lineEdit_15"/>
+               <widget class="QLineEdit" name="lineEdit_title"/>
               </item>
               <item row="5" column="1">
-               <widget class="QLineEdit" name="lineEdit_23"/>
+               <widget class="QLineEdit" name="lineEdit_target_language"/>
               </item>
               <item row="2" column="0">
                <widget class="QLabel" name="label_6">
@@ -219,16 +219,16 @@ background-color:&quot;#F0CDB1&quot;;
                </widget>
               </item>
               <item row="7" column="1">
-               <widget class="QLineEdit" name="lineEdit_24"/>
+               <widget class="QLineEdit" name="lineEdit_ccf_rank"/>
               </item>
               <item row="3" column="1">
-               <widget class="QLineEdit" name="lineEdit_21"/>
+               <widget class="QLineEdit" name="lineEdit_authors"/>
               </item>
               <item row="2" column="1">
-               <widget class="QLineEdit" name="lineEdit_20"/>
+               <widget class="QLineEdit" name="lineEdit_venue"/>
               </item>
               <item row="4" column="1">
-               <widget class="QLineEdit" name="lineEdit_22"/>
+               <widget class="QLineEdit" name="lineEdit_repo_url"/>
               </item>
               <item row="4" column="0">
                <widget class="QLabel" name="label_4">
@@ -255,7 +255,7 @@ background-color:&quot;#F0CDB1&quot;;
                </widget>
               </item>
               <item row="6" column="1">
-               <widget class="QLineEdit" name="lineEdit_2"/>
+               <widget class="QLineEdit" name="lineEdit_used_dataset"/>
               </item>
              </layout>
             </item>
@@ -349,20 +349,20 @@ background-color:&quot;#F0CDB1&quot;;
                  </widget>
                 </item>
                 <item row="3" column="1">
-                 <widget class="QLineEdit" name="lineEdit_18"/>
+                 <widget class="QLineEdit" name="lineEdit_bug_types"/>
                 </item>
                 <item row="0" column="1">
-                 <widget class="QLineEdit" name="lineEdit"/>
+                 <widget class="QLineEdit" name="lineEdit_apr_tool_name"/>
                 </item>
                 <item row="1" column="1">
-                 <widget class="QLineEdit" name="lineEdit_16">
+                 <widget class="QLineEdit" name="lineEdit_specification">
                   <property name="text">
                    <string/>
                   </property>
                  </widget>
                 </item>
                 <item row="2" column="1">
-                 <widget class="QLineEdit" name="lineEdit_17"/>
+                 <widget class="QLineEdit" name="lineEdit_tool_category"/>
                 </item>
                 <item row="1" column="0">
                  <widget class="QLabel" name="label_9">
