@@ -55,7 +55,7 @@ def main():
                 data_dict["Title"],
                 data_dict["APR Tool Name"],
                 data_dict["Authors"],
-                data_dict["Year"],
+                int(data_dict["Year"]),
                 data_dict["Venue"],
                 data_dict["Repo URL"],
                 data_dict["Target Language"],
@@ -67,14 +67,13 @@ def main():
                 data_dict["Tool Category"],
                 data_dict["Bug Types"],
             ]
-    print(df_new)
-
-    excel_path = os.path.join(config.OUTPUT_DIR, "apr_literature_metadata.xlsx")
-    df_new.to_excel(excel_path, index=True, index_label="ID")
-
     df_new.sort_values(
         by=["Year", "Title"], ascending=False, inplace=True, ignore_index=True
     )
+    excel_path = os.path.join(config.OUTPUT_DIR, "apr_literature_metadata.xlsx")
+    print(df_new)
+
+    df_new.to_excel(excel_path, index=True, index_label="ID")
     df_new.index = range(1, len(df_new) + 1)
     markdown_table_content = df_new[
         [

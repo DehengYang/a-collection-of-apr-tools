@@ -19,6 +19,30 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
         self.setupUi(self)
 
         self.textEdit.setPlaceholderText("Enter your bibtex here")
+
+        # specifications
+        self.lineEdit_16.setPlaceholderText(
+            "Possible candidates: test, issue, bug report, formal specification, etc."
+        )
+        # repo url
+        self.lineEdit_22.setPlaceholderText(
+            "Enter the public repository of the APR tool, if available."
+        )
+        # target language
+        self.lineEdit_23.setPlaceholderText(
+            "Possible candidates: Java, Python, C, C++, etc. (if there exist multiple target languages, separate them by comma)."
+        )
+        # CCF rank
+        self.lineEdit_24.setPlaceholderText("Possible candidates: A, B, C, other.")
+        # Tool category
+        self.lineEdit_17.setPlaceholderText(
+            "Possible candidates: search-based, semantics-based, learning-based, llm-based, etc."
+        )
+        # Bug types
+        self.lineEdit_18.setPlaceholderText(
+            "Possible candidates: general bugs, syntax errors, vulnerabilities, etc. (if there exist multiple bug types, separate them by comma)."
+        )
+
         self.pushButton_2.clicked.connect(self.on_clicked_2)
         self.pushButton.clicked.connect(self.on_clicked)
 
