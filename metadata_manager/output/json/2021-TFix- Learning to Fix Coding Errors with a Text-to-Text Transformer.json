@@ -1,0 +1,25 @@
+{
+    "Title": "TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer",
+    "APR Tool Name": "TFix",
+    "Authors": [
+        "Berkay Berabi",
+        "Jingxuan He",
+        "Veselin Raychev",
+        "Martin T. Vechev"
+    ],
+    "Year": "2021",
+    "Venue": "ICML",
+    "Repo URL": "https://github.com/eth-sri/TFix",
+    "Target Language": [
+        "JavaScript"
+    ],
+    "Used Dataset": [
+        "a dataset of fixes for 52 error types detected by ESLint"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/icml/BerabiHRV21,\n  author       = {Berkay Berabi and\n                  Jingxuan He and\n                  Veselin Raychev and\n                  Martin T. Vechev},\n  editor       = {Marina Meila and\n                  Tong Zhang},\n  title        = {TFix: Learning to Fix Coding Errors with a Text-to-Text Transformer},\n  booktitle    = {Proceedings of the 38th International Conference on Machine Learning,\n                  {ICML} 2021, 18-24 July 2021, Virtual Event},\n  series       = {Proceedings of Machine Learning Research},\n  volume       = {139},\n  pages        = {780--791},\n  publisher    = {{PMLR}},\n  year         = {2021},\n  url          = {http://proceedings.mlr.press/v139/berabi21a.html},\n  timestamp    = {Wed, 25 Aug 2021 17:11:16 +0200},\n  biburl       = {https://dblp.org/rec/conf/icml/BerabiHRV21.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "learning-based",
+    "Bug Types": "javascript errors covered by ESLint"
+}

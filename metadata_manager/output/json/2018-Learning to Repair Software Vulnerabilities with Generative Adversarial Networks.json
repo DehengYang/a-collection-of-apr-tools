@@ -1,0 +1,29 @@
+{
+    "Title": "Learning to Repair Software Vulnerabilities with Generative Adversarial Networks",
+    "APR Tool Name": "GAN",
+    "Authors": [
+        "Jacob Harer",
+        "Onur Ozdemir",
+        "Tomo Lazovich",
+        "Christopher P. Reale",
+        "Rebecca L. Russell",
+        "Louis Y. Kim",
+        "Peter Chin"
+    ],
+    "Year": "2018",
+    "Venue": "NIPS",
+    "Repo URL": "",
+    "Target Language": [
+        "C",
+        " C++"
+    ],
+    "Used Dataset": [
+        "SATE IV"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/nips/HarerOLRRKC18,\n  author       = {Jacob Harer and\n                  Onur Ozdemir and\n                  Tomo Lazovich and\n                  Christopher P. Reale and\n                  Rebecca L. Russell and\n                  Louis Y. Kim and\n                  Peter Chin},\n  editor       = {Samy Bengio and\n                  Hanna M. Wallach and\n                  Hugo Larochelle and\n                  Kristen Grauman and\n                  Nicol{\\`{o}} Cesa{-}Bianchi and\n                  Roman Garnett},\n  title        = {Learning to Repair Software Vulnerabilities with Generative Adversarial\n                  Networks},\n  booktitle    = {Advances in Neural Information Processing Systems 31: Annual Conference\n                  on Neural Information Processing Systems 2018, NeurIPS 2018, December\n                  3-8, 2018, Montr{\\'{e}}al, Canada},\n  pages        = {7944--7954},\n  year         = {2018},\n  url          = {https://proceedings.neurips.cc/paper/2018/hash/68abef8ee1ac9b664a90b0bbaff4f770-Abstract.html},\n  timestamp    = {Thu, 06 Oct 2022 12:10:23 +0200},\n  biburl       = {https://dblp.org/rec/conf/nips/HarerOLRRKC18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "learning-based",
+    "Bug Types": "vulnerabilities"
+}

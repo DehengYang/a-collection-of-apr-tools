@@ -1,0 +1,24 @@
+{
+    "Title": "Benchmarking and Categorizing the Performance of Neural Program Repair Systems for Java",
+    "APR Tool Name": "NPR4J (Repair Framework)",
+    "Authors": [
+        "Wenkang Zhong",
+        "Chuanyi Li",
+        "Kui Liu",
+        "Jidong Ge",
+        "Bin Luo",
+        "Tegawend\\'e F. Bissyand\\'e",
+        "Vincent Ng"
+    ],
+    "Year": "2024",
+    "Venue": "TOSEM",
+    "Repo URL": "https://github.com/kwz219/NPR4J",
+    "Target Language": "Java",
+    "Used Dataset": "Defects4J, QuixBugs, Bears",
+    "CCF Rank": "A",
+    "Paper Category": "Empirical Study",
+    "Bibtex": "@article{10.1145/3688834,\nauthor = {Zhong, Wenkang and Li, Chuanyi and Liu, Kui and Ge, Jidong and Luo, Bin and Bissyand\\'{e}, Tegawend\\'{e} F. and Ng, Vincent},\ntitle = {Benchmarking and Categorizing the Performance of Neural Program Repair Systems for Java},\nyear = {2024},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nissn = {1049-331X},\nurl = {https://doi.org/10.1145/3688834},\ndoi = {10.1145/3688834},\nabstract = {Recent years have seen a rise in neural program repair systems in the software engineering community, which adopt advanced deep learning techniques to automatically fix bugs. Having a comprehensive understanding of existing systems can facilitate new improvements in this area and provide practical instructions for users. However, we observe two potential weaknesses in the current evaluation of NPR systems: ① published systems are trained with varying data, and ② NPR systems are roughly evaluated through the number of totally fixed bugs. Questions such as “what types of bugs are repairable for current systems” cannot be answered yet. Consequently, researchers can not make target improvements in this area and users have no idea of the real affair of existing systems. In this paper, we perform a systematic evaluation of the existing nine state-of-the-art NPR systems. To perform a fair and detailed comparison, we (1) build a new benchmark and framework that supports training and validating the nine systems with unified data, and (2) evaluate retrained systems with detailed performance analysis, especially on the effectiveness and the efficiency. We believe our benchmark tool and evaluation results could offer practitioners the real affairs of current NPR systems and the implications of further facilitating the improvements of NPR.},\nnote = {Just Accepted},\njournal = {ACM Trans. Softw. Eng. Methodol.},\nmonth = aug,\nkeywords = {datasets, program repair, benchmark, empirical study}\n}\n",
+    "Specification": "",
+    "Tool Category": "learning-based, llm-based",
+    "Bug Types": "general bugs"
+}

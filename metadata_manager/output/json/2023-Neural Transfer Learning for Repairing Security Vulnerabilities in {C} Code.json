@@ -1,0 +1,20 @@
+{
+    "Title": "Neural Transfer Learning for Repairing Security Vulnerabilities in {C} Code",
+    "APR Tool Name": "VRepair",
+    "Authors": [
+        "Zimin Chen",
+        "Steve Kommrusch",
+        "Martin Monperrus"
+    ],
+    "Year": "2023",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/SteveKommrusch/VRepair",
+    "Target Language": "C",
+    "Used Dataset": "Big-Vul, CVE-fixes",
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{DBLP:journals/tse/ChenKM23,\n  author       = {Zimin Chen and\n                  Steve Kommrusch and\n                  Martin Monperrus},\n  title        = {Neural Transfer Learning for Repairing Security Vulnerabilities in\n                  {C} Code},\n  journal      = {{IEEE} Trans. Software Eng.},\n  volume       = {49},\n  number       = {1},\n  pages        = {147--165},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/TSE.2022.3147265},\n  doi          = {10.1109/TSE.2022.3147265},\n  timestamp    = {Mon, 28 Aug 2023 21:19:21 +0200},\n  biburl       = {https://dblp.org/rec/journals/tse/ChenKM23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "learning-based",
+    "Bug Types": "Vulnerabilities"
+}

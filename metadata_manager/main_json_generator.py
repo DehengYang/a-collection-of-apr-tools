@@ -17,6 +17,14 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
         super(MyMainWindow, self).__init__(parent)
         self.setupUi(self)
 
+        self.set_default_text()
+
+        self.pushButton_2.clicked.connect(self.on_clicked_2)
+        self.pushButton.clicked.connect(self.on_clicked)
+
+        self.authors, self.title, self.year = "", "", ""
+
+    def set_default_text(self):
         self.textEdit.setPlaceholderText("Enter your bibtex here")
 
         # specifications
@@ -44,10 +52,21 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
             "Possible candidates: general bugs, syntax errors, vulnerabilities, etc. (if there exist multiple bug types, separate them by comma)."
         )
 
-        self.pushButton_2.clicked.connect(self.on_clicked_2)
-        self.pushButton.clicked.connect(self.on_clicked)
-
-        self.authors, self.title, self.year = "", "", ""
+    def clear_field(self):
+        self.textEdit.clear()
+        self.lineEdit_specification.clear()
+        self.lineEdit_repo_url.clear()
+        self.lineEdit_target_language.clear()
+        self.lineEdit_used_dataset.clear()
+        self.lineEdit_ccf_rank.clear()
+        self.lineEdit_apr_tool_name.clear()
+        self.lineEdit_title.clear()
+        self.lineEdit_year.clear()
+        self.lineEdit_authors.clear()
+        self.lineEdit_venue.clear()
+        self.lineEdit_tool_category.clear()
+        self.lineEdit_bug_types.clear()
+        self.set_default_text()
 
     def on_clicked_2(self):
         print("Parsing the entered bibtex now")
@@ -88,61 +107,63 @@ class MyMainWindow(QMainWindow, Ui_MainWindow):  # 这里也要记得改
                     self.lineEdit_bug_types.setText(data_dict["Bug Types"])
 
     def on_clicked(self):
-        try:
-            # write the data to a json file
-            row_dict = (
-                {}
-            )  # ['Title', 'APR Tool Name', 'Authors', 'Year', 'Venue', 'Repo URL', 'Target Language', 'Evaluated Dataset', 'CCF Rank', 'Paper Category', 'Bibtex'])
-            row_dict["Title"] = self.title
-            row_dict["APR Tool Name"] = self.lineEdit_apr_tool_name.text()
-            row_dict["Authors"] = self.authors
-            row_dict["Year"] = self.year
-            row_dict["Venue"] = self.lineEdit_venue.text()
-            row_dict["Repo URL"] = self.lineEdit_repo_url.text()
-            row_dict["Target Language"] = self.lineEdit_target_language.text()
-            row_dict["Used Dataset"] = self.lineEdit_used_dataset.text()
-            row_dict["CCF Rank"] = self.lineEdit_ccf_rank.text()
-            row_dict["Paper Category"] = self.comboBox.currentText()
-            row_dict["Bibtex"] = self.textEdit.toPlainText()
+        # write the data to a json file
+        row_dict = (
+            {}
+        )  # ['Title', 'APR Tool Name', 'Authors', 'Year', 'Venue', 'Repo URL', 'Target Language', 'Evaluated Dataset', 'CCF Rank', 'Paper Category', 'Bibtex'])
+        row_dict["Title"] = self.title
+        row_dict["APR Tool Name"] = self.lineEdit_apr_tool_name.text()
+        row_dict["Authors"] = self.authors
+        row_dict["Year"] = self.year
+        row_dict["Venue"] = self.lineEdit_venue.text()
+        row_dict["Repo URL"] = self.lineEdit_repo_url.text()
+        row_dict["Target Language"] = self.lineEdit_target_language.text().split(",")
+        row_dict["Used Dataset"] = self.lineEdit_used_dataset.text().split(",")
+        row_dict["CCF Rank"] = self.lineEdit_ccf_rank.text()
+        row_dict["Paper Category"] = self.comboBox.currentText()
+        row_dict["Bibtex"] = self.textEdit.toPlainText()
 
-            row_dict["Specification"] = self.lineEdit_specification.text()
-            row_dict["Tool Category"] = self.lineEdit_tool_category.text()
-            row_dict["Bug Types"] = self.lineEdit_bug_types.text()
+        row_dict["Specification"] = self.lineEdit_specification.text()
+        row_dict["Tool Category"] = self.lineEdit_tool_category.text()
+        row_dict["Bug Types"] = self.lineEdit_bug_types.text()
 
-            json_output_dir = os.path.join(config.OUTPUT_DIR, "json")
-            if not os.path.exists(json_output_dir):
-                os.makedirs(json_output_dir)
-            json_output_path = os.path.join(
-                json_output_dir, f"{self.year}-{get_formatted_title(self.title)}.json"
+        json_output_dir = os.path.join(config.OUTPUT_DIR, "json")
+        if not os.path.exists(json_output_dir):
+            os.makedirs(json_output_dir)
+        json_output_path = os.path.join(
+            json_output_dir, f"{self.year}-{get_formatted_title(self.title)}.json"
+        )
+        if os.path.exists(json_output_path):
+            overwrite = QMessageBox.information(
+                self,
+                "WARNING",
+                "JSON file already exists. Do you want to overwrite it?",
+                QMessageBox.Yes | QMessageBox.No,
             )
-            if os.path.exists(json_output_path):
-                overwrite = QMessageBox.information(
-                    self,
-                    "WARNING",
-                    "JSON file already exists. Do you want to overwrite it?",
-                    QMessageBox.Yes | QMessageBox.No,
-                )
-                if overwrite == QMessageBox.Yes:
-                    print("Overwrite")
-                    json.dump(
-                        row_dict,
-                        open(json_output_path, "w", encoding="utf-8"),
-                        indent=4,
-                        ensure_ascii=False,
-                    )
-                else:
-                    print("Skipped")
-            else:
+            if overwrite == QMessageBox.Yes:
+                print("Overwrite")
                 json.dump(
                     row_dict,
                     open(json_output_path, "w", encoding="utf-8"),
                     indent=4,
                     ensure_ascii=False,
                 )
-        except Exception as e:
-            QMessageBox.information(
-                self, "WARNING", f"Error while writing to json file: {e}"
+            else:
+                print("Skipped")
+        else:
+            json.dump(
+                row_dict,
+                open(json_output_path, "w", encoding="utf-8"),
+                indent=4,
+                ensure_ascii=False,
             )
+            QMessageBox.information(
+                self,
+                "MESSAGE",
+                f"Save JSON file successfully: {json_output_path}",
+            )
+
+        self.clear_field()
 
 
 def get_formatted_title(title):
