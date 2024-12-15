@@ -1,0 +1,26 @@
+{
+    "Title": "A feasibility study of using automated program repair for introductory programming assignments",
+    "APR Tool Name": "ITSP",
+    "Authors": [
+        "Jooyong Yi",
+        "Umair Z Ahmed",
+        "Amey Karkare",
+        "Shin Hwei Tan",
+        "Abhik Roychoudhury"
+    ],
+    "Year": "2017",
+    "Venue": "FSE",
+    "Repo URL": "",
+    "Target Language": [
+        ""
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{yi2017feasibility,\n  title={A feasibility study of using automated program repair for introductory programming assignments},\n  author={Yi, Jooyong and Ahmed, Umair Z and Karkare, Amey and Tan, Shin Hwei and Roychoudhury, Abhik},\n  booktitle={Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering},\n  pages={740--751},\n  year={2017}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "programming assignments"
+}

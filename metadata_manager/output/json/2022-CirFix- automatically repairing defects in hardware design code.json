@@ -1,0 +1,24 @@
+{
+    "Title": "CirFix: automatically repairing defects in hardware design code",
+    "APR Tool Name": "CirFix",
+    "Authors": [
+        "Hammad Ahmad",
+        "Yu Huang",
+        "Westley Weimer"
+    ],
+    "Year": "2022",
+    "Venue": "ASPLOS",
+    "Repo URL": "",
+    "Target Language": [
+        "Verilog"
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{ahmad2022cirfix,\n  title={CirFix: automatically repairing defects in hardware design code},\n  author={Ahmad, Hammad and Huang, Yu and Weimer, Westley},\n  booktitle={Proceedings of the 27th ACM International Conference on Architectural Support for Programming Languages and Operating Systems},\n  pages={990--1003},\n  year={2022}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

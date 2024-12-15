@@ -1,0 +1,25 @@
+{
+    "Title": "Semi-supervised verified feedback generation",
+    "APR Tool Name": "CoderAssist",
+    "Authors": [
+        "Shalini Kaleeswaran",
+        "Anirudh Santhiar",
+        "Aditya Kanade",
+        "Sumit Gulwani"
+    ],
+    "Year": "2016",
+    "Venue": "FSE",
+    "Repo URL": "",
+    "Target Language": [
+        ""
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{kaleeswaran2016semi,\ntitle={Semi-supervised verified feedback generation},\nauthor={Kaleeswaran, Shalini and Santhiar, Anirudh and Kanade, Aditya and Gulwani, Sumit},\nbooktitle={Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering},\npages={739--750},\nyear={2016}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "programming assignments"
+}

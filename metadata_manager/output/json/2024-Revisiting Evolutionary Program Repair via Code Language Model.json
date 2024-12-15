@@ -1,0 +1,26 @@
+{
+    "Title": "Revisiting Evolutionary Program Repair via Code Language Model",
+    "APR Tool Name": "ARJA-CLM",
+    "Authors": [
+        "Yunan Wang",
+        "Tingyu Guo",
+        "Zilong Huang",
+        "Yuan Yuan"
+    ],
+    "Year": "2024",
+    "Venue": "arxiv",
+    "Repo URL": "",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "  APR-2024 competition benchmark"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@misc{wang2024revisitingevolutionaryprogramrepair,\n      title={Revisiting Evolutionary Program Repair via Code Language Model}, \n      author={Yunan Wang and Tingyu Guo and Zilong Huang and Yuan Yuan},\n      year={2024},\n      eprint={2408.10486},\n      archivePrefix={arXiv},\n      primaryClass={cs.SE},\n      url={https://arxiv.org/abs/2408.10486}, \n}",
+    "Specification": "",
+    "Tool Category": "llm-based",
+    "Bug Types": "general bugs"
+}

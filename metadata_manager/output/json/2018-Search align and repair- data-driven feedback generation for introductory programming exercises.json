@@ -1,0 +1,24 @@
+{
+    "Title": "Search, align, and repair: data-driven feedback generation for introductory programming exercises",
+    "APR Tool Name": "SarfGen",
+    "Authors": [
+        "Ke Wang",
+        "Rishabh Singh",
+        "Zhendong Su"
+    ],
+    "Year": "2018",
+    "Venue": "PLDI",
+    "Repo URL": "",
+    "Target Language": [
+        ""
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{wang2018search,\n  title={Search, align, and repair: data-driven feedback generation for introductory programming exercises},\n  author={Wang, Ke and Singh, Rishabh and Su, Zhendong},\n  booktitle={Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation},\n  pages={481--495},\n  year={2018}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

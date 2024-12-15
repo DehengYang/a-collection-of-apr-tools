@@ -1,0 +1,27 @@
+{
+    "Title": "RTL-Repair: Fast Symbolic Repair of Hardware Design Code",
+    "APR Tool Name": "RTL-Repair",
+    "Authors": [
+        "Kevin Laeufer",
+        "Brandon Fajardo",
+        "Abhik Ahuja",
+        "Vighnesh Iyer",
+        "Borivoje Nikolic",
+        "Koushik Sen"
+    ],
+    "Year": "2024",
+    "Venue": "ASPLOS",
+    "Repo URL": "",
+    "Target Language": [
+        "Verilog"
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/asplos/LaeuferFAINS24,\n  author       = {Kevin Laeufer and\n                  Brandon Fajardo and\n                  Abhik Ahuja and\n                  Vighnesh Iyer and\n                  Borivoje Nikolic and\n                  Koushik Sen},\n  editor       = {Rajiv Gupta and\n                  Nael B. Abu{-}Ghazaleh and\n                  Madan Musuvathi and\n                  Dan Tsafrir},\n  title        = {RTL-Repair: Fast Symbolic Repair of Hardware Design Code},\n  booktitle    = {Proceedings of the 29th {ACM} International Conference on Architectural\n                  Support for Programming Languages and Operating Systems, Volume 3,\n                  {ASPLOS} 2024, La Jolla, CA, USA, 27 April 2024- 1 May 2024},\n  pages        = {867--881},\n  publisher    = {{ACM}},\n  year         = {2024},\n  url          = {https://doi.org/10.1145/3620666.3651346},\n  doi          = {10.1145/3620666.3651346},\n  timestamp    = {Sat, 04 May 2024 10:55:04 +0200},\n  biburl       = {https://dblp.org/rec/conf/asplos/LaeuferFAINS24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

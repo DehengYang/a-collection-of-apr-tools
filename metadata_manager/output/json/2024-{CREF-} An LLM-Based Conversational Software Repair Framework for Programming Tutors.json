@@ -1,0 +1,29 @@
+{
+    "Title": "{CREF:} An LLM-Based Conversational Software Repair Framework for Programming Tutors",
+    "APR Tool Name": "Cref",
+    "Authors": [
+        "Boyang Yang",
+        "Haoye Tian",
+        "Weiguo Pian",
+        "Haoran Yu",
+        "Haitao Wang",
+        "Jacques Klein",
+        "Tegawend\\'e F. Bissyand\\'e",
+        "Shunfu Jin"
+    ],
+    "Year": "2024",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/buaabarty/CREF",
+    "Target Language": [
+        "C++"
+    ],
+    "Used Dataset": [
+        "TutorCode (1239 C++ defect codes)"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/issta/YangTPYWKBJ24,\n  author       = {Boyang Yang and\n                  Haoye Tian and\n                  Weiguo Pian and\n                  Haoran Yu and\n                  Haitao Wang and\n                  Jacques Klein and\n                  Tegawend{\\'{e}} F. Bissyand{\\'{e}} and\n                  Shunfu Jin},\n  editor       = {Maria Christakis and\n                  Michael Pradel},\n  title        = {{CREF:} An LLM-Based Conversational Software Repair Framework for\n                  Programming Tutors},\n  booktitle    = {Proceedings of the 33rd {ACM} {SIGSOFT} International Symposium on\n                  Software Testing and Analysis, {ISSTA} 2024, Vienna, Austria, September\n                  16-20, 2024},\n  pages        = {882--894},\n  publisher    = {{ACM}},\n  year         = {2024},\n  url          = {https://doi.org/10.1145/3650212.3680328},\n  doi          = {10.1145/3650212.3680328},\n  timestamp    = {Sun, 06 Oct 2024 21:09:49 +0200},\n  biburl       = {https://dblp.org/rec/conf/issta/YangTPYWKBJ24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "llm-based",
+    "Bug Types": "programming assignments"
+}

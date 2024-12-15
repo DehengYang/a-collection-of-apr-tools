@@ -1,0 +1,26 @@
+{
+    "Title": "Verifix: Verified Repair of Programming Assignments",
+    "APR Tool Name": "Verifix",
+    "Authors": [
+        "Umair Z. Ahmed",
+        "Zhiyu Fan",
+        "Jooyong Yi",
+        "Omar I. Al-Bataineh",
+        "Abhik Roychoudhury"
+    ],
+    "Year": "2022",
+    "Venue": "TOSEM",
+    "Repo URL": "https://github.com/zhiyufan/Verifix/tree/master",
+    "Target Language": [
+        ""
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{DBLP:journals/tosem/AhmedFYAR22,\n  author       = {Umair Z. Ahmed and\n                  Zhiyu Fan and\n                  Jooyong Yi and\n                  Omar I. Al{-}Bataineh and\n                  Abhik Roychoudhury},\n  title        = {Verifix: Verified Repair of Programming Assignments},\n  journal      = {{ACM} Trans. Softw. Eng. Methodol.},\n  volume       = {31},\n  number       = {4},\n  pages        = {74:1--74:31},\n  year         = {2022},\n  url          = {https://doi.org/10.1145/3510418},\n  doi          = {10.1145/3510418},\n  timestamp    = {Sat, 30 Sep 2023 10:29:34 +0200},\n  biburl       = {https://dblp.org/rec/journals/tosem/AhmedFYAR22.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "programming assignments"
+}

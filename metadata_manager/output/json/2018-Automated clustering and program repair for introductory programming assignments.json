@@ -16,9 +16,9 @@
         "12973 correct and 4293 incorrect (total 17266) student attempts from an MITx MOOC (Python)"
     ],
     "CCF Rank": "A",
-    "Paper Category": "-",
+    "Paper Category": "Tool Design",
     "Bibtex": "@inproceedings{DBLP:conf/pldi/GulwaniRZ18,\n  author       = {Sumit Gulwani and\n                  Ivan Radicek and\n                  Florian Zuleger},\n  editor       = {Jeffrey S. Foster and\n                  Dan Grossman},\n  title        = {Automated clustering and program repair for introductory programming\n                  assignments},\n  booktitle    = {Proceedings of the 39th {ACM} {SIGPLAN} Conference on Programming\n                  Language Design and Implementation, {PLDI} 2018, Philadelphia, PA,\n                  USA, June 18-22, 2018},\n  pages        = {465--480},\n  publisher    = {{ACM}},\n  year         = {2018},\n  url          = {https://doi.org/10.1145/3192366.3192387},\n  doi          = {10.1145/3192366.3192387},\n  timestamp    = {Sun, 02 Oct 2022 16:13:43 +0200},\n  biburl       = {https://dblp.org/rec/conf/pldi/GulwaniRZ18.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
-    "Specification": "-",
-    "Tool Category": "-",
-    "Bug Types": "-"
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
 }

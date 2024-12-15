@@ -1,0 +1,28 @@
+{
+    "Title": "Strider: Signal Value Transition-Guided Defect Repair for {HDL} Programming Assignments",
+    "APR Tool Name": "Strider",
+    "Authors": [
+        "Deheng Yang",
+        "Jiayu He",
+        "Xiaoguang Mao",
+        "Tun Li",
+        "Yan Lei",
+        "Xin Yi",
+        "Jiang Wu"
+    ],
+    "Year": "2024",
+    "Venue": "TCAD",
+    "Repo URL": "",
+    "Target Language": [
+        "Verilog"
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{DBLP:journals/tcad/YangHMLLYW24,\n  author       = {Deheng Yang and\n                  Jiayu He and\n                  Xiaoguang Mao and\n                  Tun Li and\n                  Yan Lei and\n                  Xin Yi and\n                  Jiang Wu},\n  title        = {Strider: Signal Value Transition-Guided Defect Repair for {HDL} Programming\n                  Assignments},\n  journal      = {{IEEE} Trans. Comput. Aided Des. Integr. Circuits Syst.},\n  volume       = {43},\n  number       = {5},\n  pages        = {1594--1607},\n  year         = {2024},\n  url          = {https://doi.org/10.1109/TCAD.2023.3341750},\n  doi          = {10.1109/TCAD.2023.3341750},\n  timestamp    = {Fri, 17 May 2024 21:40:40 +0200},\n  biburl       = {https://dblp.org/rec/journals/tcad/YangHMLLYW24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}
