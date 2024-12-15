@@ -170,7 +170,7 @@ def get_formatted_title(title):
     """
     format the title to a valid file name
     """
-    return title.replace(":", "-").replace("?", "").replace(",", "")
+    return title.replace(":", "-").replace("?", "").replace(",", "").replace("/", "-")
 
 
 if __name__ == "__main__":

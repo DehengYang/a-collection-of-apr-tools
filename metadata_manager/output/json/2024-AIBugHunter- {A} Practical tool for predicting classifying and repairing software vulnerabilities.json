@@ -1,0 +1,28 @@
+{
+    "Title": "AIBugHunter: {A} Practical tool for predicting, classifying and repairing software vulnerabilities",
+    "APR Tool Name": "AIBugHunter",
+    "Authors": [
+        "Michael Fu",
+        "Chakkrit Tantithamthavorn",
+        "Trung Le",
+        "Yuki Kume",
+        "Van Nguyen",
+        "Dinh Q. Phung",
+        "John C. Grundy"
+    ],
+    "Year": "2024",
+    "Venue": "EMSE",
+    "Repo URL": "",
+    "Target Language": [
+        ""
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{DBLP:journals/ese/FuTLKNPG24,\n  author       = {Michael Fu and\n                  Chakkrit Tantithamthavorn and\n                  Trung Le and\n                  Yuki Kume and\n                  Van Nguyen and\n                  Dinh Q. Phung and\n                  John C. Grundy},\n  title        = {AIBugHunter: {A} Practical tool for predicting, classifying and repairing\n                  software vulnerabilities},\n  journal      = {Empir. Softw. Eng.},\n  volume       = {29},\n  number       = {1},\n  pages        = {4},\n  year         = {2024},\n  url          = {https://doi.org/10.1007/s10664-023-10346-3},\n  doi          = {10.1007/S10664-023-10346-3},\n  timestamp    = {Sun, 06 Oct 2024 21:27:24 +0200},\n  biburl       = {https://dblp.org/rec/journals/ese/FuTLKNPG24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "vulnerabilities"
+}

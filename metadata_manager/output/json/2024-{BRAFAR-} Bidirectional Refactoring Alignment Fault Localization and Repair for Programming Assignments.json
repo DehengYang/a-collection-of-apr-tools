@@ -1,0 +1,26 @@
+{
+    "Title": "{BRAFAR:} Bidirectional Refactoring, Alignment, Fault Localization, and Repair for Programming Assignments",
+    "APR Tool Name": "BRAFAR",
+    "Authors": [
+        "Linna Xie",
+        "Chongmin Li",
+        "Yu Pei",
+        "Tian Zhang",
+        "Minxue Pan"
+    ],
+    "Year": "2024",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/LinnaX7/brafar-python",
+    "Target Language": [
+        "Python"
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/issta/XieL00P24,\n  author       = {Linna Xie and\n                  Chongmin Li and\n                  Yu Pei and\n                  Tian Zhang and\n                  Minxue Pan},\n  editor       = {Maria Christakis and\n                  Michael Pradel},\n  title        = {{BRAFAR:} Bidirectional Refactoring, Alignment, Fault Localization,\n                  and Repair for Programming Assignments},\n  booktitle    = {Proceedings of the 33rd {ACM} {SIGSOFT} International Symposium on\n                  Software Testing and Analysis, {ISSTA} 2024, Vienna, Austria, September\n                  16-20, 2024},\n  pages        = {856--868},\n  publisher    = {{ACM}},\n  year         = {2024},\n  url          = {https://doi.org/10.1145/3650212.3680326},\n  doi          = {10.1145/3650212.3680326},\n  timestamp    = {Thu, 03 Oct 2024 00:45:00 +0200},\n  biburl       = {https://dblp.org/rec/conf/issta/XieL00P24.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

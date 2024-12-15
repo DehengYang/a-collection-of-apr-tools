@@ -1,0 +1,24 @@
+{
+    "Title": "Fixing deadlocks via lock pre-acquisitions",
+    "APR Tool Name": "DFixer",
+    "Authors": [
+        "Yan Cai",
+        "Lingwei Cao"
+    ],
+    "Year": "2016",
+    "Venue": "ICSE",
+    "Repo URL": "http://lcs.ios.ac.cn/~yancai/dfixer",
+    "Target Language": [
+        "C",
+        " C++"
+    ],
+    "Used Dataset": [
+        "C/C++ programs  that contain 20 deadlocks"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{cai2016fixing,\n  title={Fixing deadlocks via lock pre-acquisitions},\n  author={Cai, Yan and Cao, Lingwei},\n  booktitle={Proceedings of the 38th international conference on software engineering},\n  pages={1109--1120},\n  year={2016}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "vulnerability"
+}

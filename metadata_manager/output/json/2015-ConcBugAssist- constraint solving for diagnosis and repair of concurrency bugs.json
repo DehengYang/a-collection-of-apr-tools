@@ -1,0 +1,24 @@
+{
+    "Title": "ConcBugAssist: constraint solving for diagnosis and repair of concurrency bugs",
+    "APR Tool Name": "ConcBugAssist",
+    "Authors": [
+        "Sepideh Khoshnood",
+        "Markus Kusano",
+        "Chao Wang"
+    ],
+    "Year": "2015",
+    "Venue": "ISSTA",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "C multithreaded programs (including POSIX threads related buggy pro-\r\ngrams from the 2015 SV-COMP)"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{khoshnood2015concbugassist,\n  title={ConcBugAssist: constraint solving for diagnosis and repair of concurrency bugs},\n  author={Khoshnood, Sepideh and Kusano, Markus and Wang, Chao},\n  booktitle={Proceedings of the 2015 international symposium on software testing and analysis},\n  pages={165--176},\n  year={2015}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "concurrency bugs"
+}

@@ -1,0 +1,24 @@
+{
+    "Title": "Crash-avoiding program repair",
+    "APR Tool Name": "Fix2Fit",
+    "Authors": [
+        "Xiang Gao",
+        "Sergey Mechtaev",
+        "Abhik Roychoudhury"
+    ],
+    "Year": "2019",
+    "Venue": "ISSTA",
+    "Repo URL": "https://www.github.com/gaoxiang9430/fix2fit",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        ""
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{gao2019crash,\n  title={Crash-avoiding program repair},\n  author={Gao, Xiang and Mechtaev, Sergey and Roychoudhury, Abhik},\n  booktitle={Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis},\n  pages={8--18},\n  year={2019}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "vulnerabilities"
+}

@@ -1,0 +1,23 @@
+{
+    "Title": "CorCA: An Automatic Program Repair Tool for Checking and Removing Effectively {C} Flaws",
+    "APR Tool Name": "CorCA",
+    "Authors": [
+        "Jo\\~ao In\\'acio",
+        "Ib\\'eria Medeiros"
+    ],
+    "Year": "2023",
+    "Venue": "ICST",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "1075 programs from SARD and 7 real applications"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/icst/InacioM23,\n  author       = {Jo{\\~{a}}o In{\\'{a}}cio and\n                  Ib{\\'{e}}ria Medeiros},\n  title        = {CorCA: An Automatic Program Repair Tool for Checking and Removing\n                  Effectively {C} Flaws},\n  booktitle    = {{IEEE} Conference on Software Testing, Verification and Validation,\n                  {ICST} 2023, Dublin, Ireland, April 16-20, 2023},\n  pages        = {71--82},\n  publisher    = {{IEEE}},\n  year         = {2023},\n  url          = {https://doi.org/10.1109/ICST57152.2023.00016},\n  doi          = {10.1109/ICST57152.2023.00016},\n  timestamp    = {Mon, 05 Feb 2024 20:32:26 +0100},\n  biburl       = {https://dblp.org/rec/conf/icst/InacioM23.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

@@ -1,0 +1,23 @@
+{
+    "Title": "Automatic repair for multi-threaded programs with deadlock/livelock using maximum satisfiability",
+    "APR Tool Name": "deadlock/livelock repair tool",
+    "Authors": [
+        "Yiyan Lin",
+        "Sandeep S Kulkarni"
+    ],
+    "Year": "2014",
+    "Venue": "ISSTA",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "four open-source multithreaded C programs"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{lin2014automatic,\n  title={Automatic repair for multi-threaded programs with deadlock/livelock using maximum satisfiability},\n  author={Lin, Yiyan and Kulkarni, Sandeep S},\n  booktitle={Proceedings of the 2014 International Symposium on Software Testing and Analysis},\n  pages={237--247},\n  year={2014}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "deadlock/livelock"
+}

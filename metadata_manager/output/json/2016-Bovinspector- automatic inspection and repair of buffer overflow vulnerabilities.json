@@ -1,0 +1,24 @@
+{
+    "Title": "Bovinspector: automatic inspection and repair of buffer overflow vulnerabilities",
+    "APR Tool Name": "Bovinspector",
+    "Authors": [
+        "Fengjuan Gao",
+        "Linzhang Wang",
+        "Xuandong Li"
+    ],
+    "Year": "2016",
+    "Venue": "ASE",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "8 programs from GNU COREUTILS utilities and real-world open source programs"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{gao2016bovinspector,\n  title={Bovinspector: automatic inspection and repair of buffer overflow vulnerabilities},\n  author={Gao, Fengjuan and Wang, Linzhang and Li, Xuandong},\n  booktitle={Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering},\n  pages={786--791},\n  year={2016}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "vulnerabilities"
+}

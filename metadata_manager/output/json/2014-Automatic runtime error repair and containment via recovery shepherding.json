@@ -1,0 +1,24 @@
+{
+    "Title": "Automatic runtime error repair and containment via recovery shepherding",
+    "APR Tool Name": "RCV",
+    "Authors": [
+        "Fan Long",
+        "Stelios Sidiroglou-Douskos",
+        "Martin C. Rinard"
+    ],
+    "Year": "2014",
+    "Venue": "PLDI",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "all divide-by-zero and null-dereference errors available in the CVE database from January 2011 to March 2013 (finally got 18 errors)"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/pldi/LongSR14,\n  author       = {Fan Long and\n                  Stelios Sidiroglou{-}Douskos and\n                  Martin C. Rinard},\n  editor       = {Michael F. P. O'Boyle and\n                  Keshav Pingali},\n  title        = {Automatic runtime error repair and containment via recovery shepherding},\n  booktitle    = {{ACM} {SIGPLAN} Conference on Programming Language Design and Implementation,\n                  {PLDI} '14, Edinburgh, United Kingdom - June 09 - 11, 2014},\n  pages        = {227--238},\n  publisher    = {{ACM}},\n  year         = {2014},\n  url          = {https://doi.org/10.1145/2594291.2594337},\n  doi          = {10.1145/2594291.2594337},\n  timestamp    = {Thu, 24 Jun 2021 16:19:30 +0200},\n  biburl       = {https://dblp.org/rec/conf/pldi/LongSR14.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "divide-by-zero and null-dereference errors"
+}

@@ -1,0 +1,25 @@
+{
+    "Title": "Concolic Program Repair",
+    "APR Tool Name": "CPR",
+    "Authors": [
+        "Ridwan Shariffdeen",
+        "Yannic Noller",
+        "Lars Grunske",
+        "Abhik Roychoudhury"
+    ],
+    "Year": "2021",
+    "Venue": "PLDI",
+    "Repo URL": "https://cpr-tool.github.io/",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "SV-COMP benchmarks (software vulnerabilities and defects)"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{shariffdeen2021concolic,\n  title={Concolic Program Repair},\n  author={Shariffdeen, Ridwan and Noller, Yannic and Grunske, Lars and Roychoudhury, Abhik},\n  booktitle={42nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)},\n  year={2021}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": "vulnerabilities"
+}
