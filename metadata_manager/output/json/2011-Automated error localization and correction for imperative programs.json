@@ -1,0 +1,23 @@
+{
+    "Title": "Automated error localization and correction for imperative programs",
+    "APR Tool Name": "FoREnSiC repair module",
+    "Authors": [
+        "Robert K\\\"onighofer",
+        "Roderick Bloem"
+    ],
+    "Year": "2011",
+    "Venue": "FMCAD",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "TCAS programs from Siemens suite"
+    ],
+    "CCF Rank": "C",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/fmcad/KonighoferB11,\n  author       = {Robert K{\\\"{o}}nighofer and\n                  Roderick Bloem},\n  editor       = {Per Bjesse and\n                  Anna Slobodov{\\'{a}}},\n  title        = {Automated error localization and correction for imperative programs},\n  booktitle    = {International Conference on Formal Methods in Computer-Aided Design,\n                  {FMCAD} '11, Austin, TX, USA, October 30 - November 02, 2011},\n  pages        = {91--100},\n  publisher    = {{FMCAD} Inc.},\n  year         = {2011},\n  url          = {http://dl.acm.org/citation.cfm?id=2157671},\n  timestamp    = {Mon, 03 Jan 2022 22:25:34 +0100},\n  biburl       = {https://dblp.org/rec/conf/fmcad/KonighoferB11.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "test",
+    "Tool Category": "semantics-based ",
+    "Bug Types": "general bugs"
+}
