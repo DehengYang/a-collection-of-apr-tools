@@ -57,7 +57,7 @@ The Markdown version is shown [below](#apr-tool-list-sorted-by-year).
 
 This section lists existing surveys on APR (in APA style):
 
-1. Kai Huang, Zhengzi Xu, Su Yang, Hongyu Sun, Xuejun Li, Zheng Yan, & Yuqing Zhang. (2023). A Survey on Automated Program Repair Techniques.
+1. Huang, K., Xu, Z., Yang, S., Sun, H., Li, X., Yan, Z., & Zhang, Y. (2024). Evolving Paradigms in Automated Program Repair: Taxonomy, Challenges, and Opportunities. ACM Computing Surveys, 57(2), 1-43.
 2. Zhang, Q., Fang, C., Ma, Y., Sun, W., & Chen, Z. (2023). A Survey of Learning-based Automated Program Repair. ACM Trans. Softw. Eng. Methodol., 33(2).
 3. Xiang Gao, Yannic Noller, & Abhik Roychoudhury (2022). Program Repair. CoRR, abs/2211.12787.
 4. Mamatha, T., Reddy, B., & Bindu, C. (2022). A Literature Review on Automated Code Repair. In Proceedings of the 2nd International Conference on Recent Trends in Machine Learning, IoT, Smart Cities and Applications (pp. 249–260).
