@@ -51,7 +51,40 @@ We will continue updating the repository to include the latest APR tools. Any co
 
 The Excel version is available [here](./metadata_manager/output/apr_literature_metadata.xlsx).
 
-The Markdown version is as follows:
+The Markdown version is shown [below](#apr-tool-list-sorted-by-year).
+
+# Survey
+
+This section lists existing surveys on APR (in APA style):
+
+1. Kai Huang, Zhengzi Xu, Su Yang, Hongyu Sun, Xuejun Li, Zheng Yan, & Yuqing Zhang. (2023). A Survey on Automated Program Repair Techniques.
+2. Zhang, Q., Fang, C., Ma, Y., Sun, W., & Chen, Z. (2023). A Survey of Learning-based Automated Program Repair. ACM Trans. Softw. Eng. Methodol., 33(2).
+3. Xiang Gao, Yannic Noller, & Abhik Roychoudhury (2022). Program Repair. CoRR, abs/2211.12787.
+4. Mamatha, T., Reddy, B., & Bindu, C. (2022). A Literature Review on Automated Code Repair. In Proceedings of the 2nd International Conference on Recent Trends in Machine Learning, IoT, Smart Cities and Applications (pp. 249–260).
+5. Jiang JJ, Chen JJ, Xiong YF. Survey of Automatic Program Repair Techniques. Journal of Software, 2021, 32(9): 2665-2690(in Chinese). (姜佳君, 陈俊洁, 熊英飞. 软件缺陷自动修复技术综述. 软件学报, 2021, 32(9): 2665-2690.)
+6. S. Amirhossein Mousavi, Donya Azizi Babani, & Francesco Flammini (2020). Obstacles in Fully Automatic Program Repair: A survey. CoRR, abs/2011.02714.
+7. Cao, H., Meng, Y., Shi, J., Li, L., Liao, T., & Zhao, C. (2020). A Survey on Automatic Bug Fixing. In 2020 6th International Symposium on System and Software Reliability (ISSSR) (pp. 122–131).
+8. Li B, He YP, Ma HT. Automatic Program Repair: Key Problems and Technologies. Journal of Software, 2019, 30(2): 244-265(in Chinese). (李斌, 贺也平, 马恒太. 程序自动修复:关键问题及技术. 软件学报, 2019, 30(2): 244-265.)
+9. Monperrus, M. (2018). Automatic software repair: a bibliography. ACM Computing Surveys (CSUR), 51(1), 1–24.
+10. Liu, Y., Zhang, L., & Zhang, Z. (2018). A Survey of Test Based Automatic Program Repair.. JSW, 13(8), 437–452.
+11. WANG Z, GAO J, CHEN X, FU HJ, FAN XY. Automated Program Repair Techniques: a Survey. Chinese Journal of Computers, 2018, 41(3): 23 (in Chinese).  (王赞, 郜健, 陈翔, 傅浩杰, & 樊向宇. (2018). 自动程序修复方法研究述评. 计算机学报, 41(3), 23.)
+12. Monperrus, M. (2018). The living review on automated program repair. (Doctoral dissertation, HAL Archives Ouvertes).
+13. Gazzola, L., Micucci, D., & Mariani, L. (2017). Automatic software repair: A survey. IEEE Transactions on Software Engineering, 45(1), 34–67.
+14. Xuan JF, Ren ZL, Wang ZY, Xie XY, Jiang H. Progress on Approaches to Automatic Program Repair[J]. Ruan Jian Xue Bao/ Journal of Software, 2016, 27(4): 771-784. (玄跻峰, 任志磊, 王子元, 谢晓园, 江贺. 自动程序修复方法研究进展[J].软件学报,2016, 27(4): 771-784.)
+
+**Other insightful articles:**
+
+1. Le Goues, C., Pradel, M., Roychoudhury, A., & Chandra, S. (2021). Automatic Program Repair. IEEE Software, 38(4), 22–27.
+2. Roychoudhury, A., & Xiong, Y. (2019). Automated program repair: a step towards software automation. Science China Information Sciences, 62(10), 200103.
+3. Goues, C., Pradel, M., & Roychoudhury, A. (2019). Automated program repair. Communications of the ACM, 62(12), 56–65.
+4. Alireza Khalilian, Ahmad Baraani-Dastjerdi, & Bahman Zamani (2018). Challenges of Debugging Software Errors for Automatic Program Repair. In Book title is required!.
+5. Kim, S., Le Goues, C., Pradel, M., & Roychoudhury, A. (2017). Automated program repair (dagstuhl seminar 17022). In Dagstuhl Reports.
+6. Alrajeh, D., Kramer, J., Russo, A., & Uchitel, S. (2015). Automated support for diagnosis and repair. Communications of the ACM, 58(2), 65–72.
+7. Monperrus, M. (2015). Introduction to Automatic Software Repair. Journal is required!.
+8. Harrold, M., Steinmann, F., Tip, F., & Zeller, A. (2013). Fault Prediction, Localization, and Repair (Dagstuhl Seminar 13061). In Dagstuhl Reports.
+9. Le Goues, C., Forrest, S., & Weimer, W. (2013). Current challenges in automatic software repair. Software quality journal, 21(3), 421–443.
+10. Harman, M. (2010). Automated patching techniques: the fix is in: technical perspective. Communications of the ACM, 53(5), 108–108.
+
 
 ## APR Tool List (sorted by year)
 
