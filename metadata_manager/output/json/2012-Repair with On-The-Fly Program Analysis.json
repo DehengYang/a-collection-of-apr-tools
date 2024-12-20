@@ -1,0 +1,23 @@
+{
+    "Title": "Repair with On-The-Fly Program Analysis",
+    "APR Tool Name": "FoREnSiC repair module",
+    "Authors": [
+        "Robert K\\\"onighofer",
+        "Roderick Bloem"
+    ],
+    "Year": "2012",
+    "Venue": "Haifa Verification Conference",
+    "Repo URL": "-",
+    "Target Language": [
+        "C"
+    ],
+    "Used Dataset": [
+        "tcas program from the Siemens suite"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{DBLP:conf/hvc/KonighoferB12,\n  author       = {Robert K{\\\"{o}}nighofer and\n                  Roderick Bloem},\n  editor       = {Armin Biere and\n                  Amir Nahir and\n                  Tanja E. J. Vos},\n  title        = {Repair with On-The-Fly Program Analysis},\n  booktitle    = {Hardware and Software: Verification and Testing - 8th International\n                  Haifa Verification Conference, {HVC} 2012, Haifa, Israel, November\n                  6-8, 2012. Revised Selected Papers},\n  series       = {Lecture Notes in Computer Science},\n  volume       = {7857},\n  pages        = {56--71},\n  publisher    = {Springer},\n  year         = {2012},\n  url          = {https://doi.org/10.1007/978-3-642-39611-3\\_11},\n  doi          = {10.1007/978-3-642-39611-3\\_11},\n  timestamp    = {Tue, 14 May 2019 10:00:42 +0200},\n  biburl       = {https://dblp.org/rec/conf/hvc/KonighoferB12.bib},\n  bibsource    = {dblp computer science bibliography, https://dblp.org}\n}",
+    "Specification": "test",
+    "Tool Category": "semantics-based",
+    "Bug Types": ""
+}
