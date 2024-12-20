@@ -1,0 +1,25 @@
+{
+    "Title": "Enhancing the Efficiency of Automated Program Repair via Greybox Analysis",
+    "APR Tool Name": "Cresino",
+    "Authors": [
+        "YoungJae Kim",
+        "Yechan Park",
+        "Seungheon Han",
+        "Jooyong Yi"
+    ],
+    "Year": "2024",
+    "Venue": "ASE",
+    "Repo URL": "https://github.com/UNIST-LOFT/GreyboxAPR",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{kim2024enhancing,\n  title={Enhancing the Efficiency of Automated Program Repair via Greybox Analysis},\n  author={Kim, YoungJae and Park, Yechan and Han, Seungheon and Yi, Jooyong},\n  booktitle={Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering},\n  pages={1719--1731},\n  year={2024}\n}",
+    "Specification": "test",
+    "Tool Category": "patch-scheduling simulation system",
+    "Bug Types": "general bugs"
+}

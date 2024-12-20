@@ -22,6 +22,12 @@ To contribute to this repository, you can follow these steps:
 
 ### Step 2: Configure the Python Environment
 
+#### Install PyQT5
+
+`sudo apt update; sudo apt install python3-pyqt5`
+
+#### Create a Python Environment and Run the Main Script
+
 1. `cd metadata_manager`
 2. `conda env create -f env.yml`
 3. `conda activate apr-tools`

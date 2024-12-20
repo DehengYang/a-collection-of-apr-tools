@@ -1,4 +1,4 @@
-from pyutils import Dir_util
+from pyutils.utils import Dir_util
 import os
 
 PROJ_DIR = Dir_util.get_cur_dir(__file__)
