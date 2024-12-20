@@ -1,0 +1,25 @@
+{
+    "Title": "Automated program repair from fuzzing perspective",
+    "APR Tool Name": "SimAPR",
+    "Authors": [
+        "YoungJae Kim",
+        "Seungheon Han",
+        "Askar Yeltayuly Khamit",
+        "Jooyong Yi"
+    ],
+    "Year": "2023",
+    "Venue": "ISSTA",
+    "Repo URL": "https://github.com/UNIST-LOFT/SimAPR",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{kim2023automated,\n  title={Automated program repair from fuzzing perspective},\n  author={Kim, YoungJae and Han, Seungheon and Khamit, Askar Yeltayuly and Yi, Jooyong},\n  booktitle={Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis},\n  pages={854--866},\n  year={2023}\n}",
+    "Specification": "test",
+    "Tool Category": "patch-scheduling simulation system",
+    "Bug Types": "general bugs"
+}

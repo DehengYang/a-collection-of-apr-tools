@@ -1,0 +1,3 @@
+[submodule "metadata_manager/pyutils"]
+	path = metadata_manager/pyutils
+	url = https://github.com/DehengYang/pyutils

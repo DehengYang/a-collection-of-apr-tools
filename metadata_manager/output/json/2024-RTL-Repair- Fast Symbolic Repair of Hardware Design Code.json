@@ -11,7 +11,7 @@
     ],
     "Year": "2024",
     "Venue": "ASPLOS",
-    "Repo URL": "",
+    "Repo URL": "https://github.com/ekiwi/rtl-repair",
     "Target Language": [
         "Verilog"
     ],
