@@ -13,7 +13,7 @@
         "C"
     ],
     "Used Dataset": [
-        "C multithreaded programs (including POSIX threads related buggy pro-\r\ngrams from the 2015 SV-COMP)"
+        "C multithreaded programs (including POSIX threads related buggy programs from the 2015 SV-COMP)"
     ],
     "CCF Rank": "A",
     "Paper Category": "Tool Design",

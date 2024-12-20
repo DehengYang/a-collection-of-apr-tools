@@ -8,7 +8,7 @@
         "Wei-Ngan Chin"
     ],
     "Year": "2021",
-    "Venue": "International Conference on Verification, Model Checking, and Abstract Interpretation\n(VMCAI)",
+    "Venue": "International Conference on Verification, Model Checking, and Abstract Interpretation (VMCAI)",
     "Repo URL": "https://github.com/neulab/incremental_tree_edit",
     "Target Language": [
         "C"
