@@ -1,0 +1,34 @@
+{
+    "Title": "Comprehensive Fine-Tuning Large Language Models of Code for Automated Program Repair",
+    "APR Tool Name": "",
+    "Authors": [
+        "Kai Huang",
+        "Jian Zhang",
+        "Xinlei Bao",
+        "Xu Wang",
+        "Yang Liu"
+    ],
+    "Year": "2025",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/LLMC-APR/ STUDY",
+    "Target Language": [
+        "Java",
+        " C",
+        " C++",
+        " JavaScript"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        " BFP",
+        " SeqRD",
+        " VulRD",
+        " TFixD",
+        " HEV"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Empirical Study",
+    "Bibtex": "@article{huang2025comprehensive,\n  title={Comprehensive Fine-Tuning Large Language Models of Code for Automated Program Repair},\n  author={Huang, Kai and Zhang, Jian and Bao, Xinlei and Wang, Xu and Liu, Yang},\n  journal={IEEE Transactions on Software Engineering},\n  year={2025},\n  publisher={IEEE}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

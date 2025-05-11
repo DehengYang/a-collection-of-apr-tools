@@ -1,8 +1,15 @@
 {
     "Title": "Enhancing Automated Program Repair with Solution Design",
     "APR Tool Name": "DRCodePilot",
-    "Authors": [],
-    "Year": 2024,
+    "Authors": [
+        "Jiuang Zhao",
+        "Donghao Yang",
+        "Li Zhang",
+        "Xiaoli Lian",
+        "Zitian Yang",
+        "Fang Liu"
+    ],
+    "Year": "2024",
     "Venue": "ASE",
     "Repo URL": "https://figshare.com/s/82ed8e86e88d3268b4c1",
     "Target Language": [
@@ -13,9 +20,9 @@
         "Solr"
     ],
     "CCF Rank": "A",
-    "Paper Category": "-",
-    "Bibtex": "",
-    "Specification": "-",
-    "Tool Category": "-",
-    "Bug Types": "-"
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{zhao2024enhancing,\n  title={Enhancing Automated Program Repair with Solution Design},\n  author={Zhao, Jiuang and Yang, Donghao and Zhang, Li and Lian, Xiaoli and Yang, Zitian and Liu, Fang},\n  booktitle={Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering},\n  pages={1706--1718},\n  year={2024}\n}",
+    "Specification": "issue",
+    "Tool Category": "llm-based",
+    "Bug Types": "general bugs"
 }

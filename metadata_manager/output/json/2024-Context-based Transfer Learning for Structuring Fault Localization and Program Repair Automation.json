@@ -1,0 +1,29 @@
+{
+    "Title": "Context-based Transfer Learning for Structuring Fault Localization and Program Repair Automation",
+    "APR Tool Name": "CodeHealer",
+    "Authors": [
+        "Lehuan Zhang",
+        "Shikai Guo",
+        "Yi Guo",
+        "Hui Li",
+        "Yu Chai",
+        "Rong Chen",
+        "Xiaochen Li",
+        "He Jiang"
+    ],
+    "Year": "2024",
+    "Venue": "TOSEM",
+    "Repo URL": "https://github.com/yyiloe/CodeHealer",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{zhang2024context,\n  title={Context-based Transfer Learning for Structuring Fault Localization and Program Repair Automation},\n  author={Zhang, Lehuan and Guo, Shikai and Guo, Yi and Li, Hui and Chai, Yu and Chen, Rong and Li, Xiaochen and Jiang, He},\n  journal={ACM Transactions on Software Engineering and Methodology},\n  year={2024},\n  publisher={ACM New York, NY}\n}",
+    "Specification": "test",
+    "Tool Category": "learning-based",
+    "Bug Types": "general bugs"
+}
