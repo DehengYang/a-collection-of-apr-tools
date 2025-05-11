@@ -1,0 +1,28 @@
+{
+    "Title": "Ratchet: Retrieval Augmented Transformer for Program Repair",
+    "APR Tool Name": "Patchet",
+    "Authors": [
+        "Jian Wang",
+        "Shangqing Liu",
+        "Xiaofei Xie",
+        "Jingkai Siow",
+        "Kui Liu",
+        "Yi Li"
+    ],
+    "Year": "2024",
+    "Venue": "ISSRE",
+    "Repo URL": "https://sites.google.com/view/apr-ratchet",
+    "Target Language": [
+        "C/C++"
+    ],
+    "Used Dataset": [
+        "DrRepair",
+        " Patchet-DS"
+    ],
+    "CCF Rank": "B",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{wang2024ratchet,\n  title={Ratchet: Retrieval Augmented Transformer for Program Repair},\n  author={Wang, Jian and Liu, Shangqing and Xie, Xiaofei and Siow, Jingkai and Liu, Kui and Li, Yi},\n  booktitle={2024 IEEE 35th International Symposium on Software Reliability Engineering (ISSRE)},\n  pages={427--438},\n  year={2024},\n  organization={IEEE}\n}",
+    "Specification": "",
+    "Tool Category": "learning-based",
+    "Bug Types": "general bugs"
+}

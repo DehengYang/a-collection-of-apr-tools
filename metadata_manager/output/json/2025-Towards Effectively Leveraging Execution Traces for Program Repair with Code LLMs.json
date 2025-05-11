@@ -1,0 +1,28 @@
+{
+    "Title": "Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs",
+    "APR Tool Name": "",
+    "Authors": [
+        "Mirazul Haque",
+        "Petr Babkin",
+        "Farima Farmahinifarahani",
+        "Manuela Veloso"
+    ],
+    "Year": "2025",
+    "Venue": "arxiv",
+    "Repo URL": "",
+    "Target Language": [
+        "Java",
+        " Python"
+    ],
+    "Used Dataset": [
+        "Refactory",
+        " HumanEval-Java",
+        " RunBugRun"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{haque2025towards,\n  title={Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs},\n  author={Haque, Mirazul and Babkin, Petr and Farmahinifarahani, Farima and Veloso, Manuela},\n  journal={arXiv preprint arXiv:2505.04441},\n  year={2025}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

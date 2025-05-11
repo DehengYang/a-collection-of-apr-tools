@@ -1,0 +1,30 @@
+{
+    "Title": "Repair: Automated program repair with process-based feedback",
+    "APR Tool Name": "RePair",
+    "Authors": [
+        "Yuze Zhao",
+        "Zhenya Huang",
+        "Yixiao Ma",
+        "Rui Li",
+        "Kai Zhang",
+        "Hao Jiang",
+        "Qi Liu",
+        "Linbo Zhu",
+        "Yu Su"
+    ],
+    "Year": "2024",
+    "Venue": "ACL",
+    "Repo URL": "https://github.com/TnTWoW/RePair",
+    "Target Language": [
+        "Python"
+    ],
+    "Used Dataset": [
+        "CodeNet4Repair"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{zhao2024repair,\n  title={Repair: Automated program repair with process-based feedback},\n  author={Zhao, Yuze and Huang, Zhenya and Ma, Yixiao and Li, Rui and Zhang, Kai and Jiang, Hao and Liu, Qi and Zhu, Linbo and Su, Yu},\n  journal={Findings of the Association for Computational Linguistics ACL 2024},\n  year={2024}\n}",
+    "Specification": "test",
+    "Tool Category": "llm-based",
+    "Bug Types": "general bugs"
+}

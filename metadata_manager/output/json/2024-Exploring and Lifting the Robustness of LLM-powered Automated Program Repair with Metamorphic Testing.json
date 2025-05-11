@@ -1,0 +1,34 @@
+{
+    "Title": "Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing",
+    "APR Tool Name": "",
+    "Authors": [
+        "Pengyu Xue",
+        "Linhao Wu",
+        "Zhen Yang",
+        "Zhongxing Yu",
+        "Zhi Jin",
+        "Ge Li",
+        "Yan Xiao",
+        "Shuo Liu",
+        "Xinyi Li",
+        "Hongyi Lin",
+        "others"
+    ],
+    "Year": "2024",
+    "Venue": "arxiv",
+    "Repo URL": "",
+    "Target Language": [
+        "Java",
+        " Python"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        " QuixBugs"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Empirical Study",
+    "Bibtex": "@article{xue2024exploring,\n  title={Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing},\n  author={Xue, Pengyu and Wu, Linhao and Yang, Zhen and Yu, Zhongxing and Jin, Zhi and Li, Ge and Xiao, Yan and Liu, Shuo and Li, Xinyi and Lin, Hongyi and others},\n  journal={arXiv preprint arXiv:2410.07516},\n  year={2024}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

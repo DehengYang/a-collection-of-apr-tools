@@ -1,0 +1,25 @@
+{
+    "Title": "Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model",
+    "APR Tool Name": "",
+    "Authors": [
+        "Elisa Zhang",
+        "Shiyu Sun",
+        "Yunlong Xing",
+        "Kun Sun"
+    ],
+    "Year": "2024",
+    "Venue": "CCS",
+    "Repo URL": "",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@inproceedings{zhang2024poster,\n  title={Poster: Repairing Bugs with the Introduction of New Variables: A Multi-Agent Large Language Model},\n  author={Zhang, Elisa and Sun, Shiyu and Xing, Yunlong and Sun, Kun},\n  booktitle={Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security},\n  pages={4961--4963},\n  year={2024}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}
