@@ -1,0 +1,25 @@
+{
+    "Title": "SemAgent: A Semantics Aware Program Repair Agent",
+    "APR Tool Name": "SemAgent",
+    "Authors": [
+        "Anvith Pabba",
+        "Alex Mathai",
+        "Anindya Chakraborty",
+        "Baishakhi Ray"
+    ],
+    "Year": "2025",
+    "Venue": "arxiv",
+    "Repo URL": "",
+    "Target Language": [
+        "Python"
+    ],
+    "Used Dataset": [
+        "SWE-Bench Lite"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{pabba2025semagent,\n  title={SemAgent: A Semantics Aware Program Repair Agent},\n  author={Pabba, Anvith and Mathai, Alex and Chakraborty, Anindya and Ray, Baishakhi},\n  journal={arXiv preprint arXiv:2506.16650},\n  year={2025}\n}",
+    "Specification": "issue",
+    "Tool Category": "llm-based",
+    "Bug Types": "general bugs"
+}
