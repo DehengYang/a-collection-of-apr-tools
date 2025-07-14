@@ -1,0 +1,26 @@
+{
+    "Title": "Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search",
+    "APR Tool Name": "ReinFix",
+    "Authors": [
+        "Jiayi Zhang",
+        "Kai Huang",
+        "Jian Zhang",
+        "Yang Liu",
+        "Chunyang Chen"
+    ],
+    "Year": "2025",
+    "Venue": "arxiv",
+    "Repo URL": "https://sites.google.com/view/repairingredients",
+    "Target Language": [
+        "Java"
+    ],
+    "Used Dataset": [
+        "Defects4J"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{zhang2025repair,\n  title={Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search},\n  author={Zhang, Jiayi and Huang, Kai and Zhang, Jian and Liu, Yang and Chen, Chunyang},\n  journal={arXiv preprint arXiv:2506.23100},\n  year={2025}\n}",
+    "Specification": "test",
+    "Tool Category": "llm-based",
+    "Bug Types": "general bugs"
+}

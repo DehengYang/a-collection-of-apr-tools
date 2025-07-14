@@ -1,0 +1,29 @@
+{
+    "Title": "APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search",
+    "APR Tool Name": "APRMCTS",
+    "Authors": [
+        "Haichuan Hu",
+        "Congqing He",
+        "Hao Zhang",
+        "Xiaochen Xie",
+        "Quanjun Zhang"
+    ],
+    "Year": "2025",
+    "Venue": "arxiv",
+    "Repo URL": "",
+    "Target Language": [
+        "Java",
+        "Python"
+    ],
+    "Used Dataset": [
+        "Defects4J",
+        "QuixBugs",
+        "ConDefects"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{hu2025aprmcts,\n  title={APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search},\n  author={Hu, Haichuan and He, Congqing and Zhang, Hao and Xie, Xiaochen and Zhang, Quanjun},\n  journal={arXiv preprint arXiv:2507.01827},\n  year={2025}\n}",
+    "Specification": "test",
+    "Tool Category": "llm-based",
+    "Bug Types": "general bugs"
+}

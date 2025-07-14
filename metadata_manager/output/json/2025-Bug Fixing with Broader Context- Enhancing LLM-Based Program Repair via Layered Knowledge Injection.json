@@ -1,0 +1,25 @@
+{
+    "Title": "Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection",
+    "APR Tool Name": "",
+    "Authors": [
+        "Ramtin Ehsani",
+        "Esteban Parra",
+        "Sonia Haiduc",
+        "Preetha Chatterjee"
+    ],
+    "Year": "2025",
+    "Venue": "arxiv",
+    "Repo URL": "",
+    "Target Language": [
+        "Python"
+    ],
+    "Used Dataset": [
+        "BugsInPy"
+    ],
+    "CCF Rank": "other",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{ehsani2025bug,\n  title={Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection},\n  author={Ehsani, Ramtin and Parra, Esteban and Haiduc, Sonia and Chatterjee, Preetha},\n  journal={arXiv preprint arXiv:2506.24015},\n  year={2025}\n}",
+    "Specification": "",
+    "Tool Category": "",
+    "Bug Types": ""
+}

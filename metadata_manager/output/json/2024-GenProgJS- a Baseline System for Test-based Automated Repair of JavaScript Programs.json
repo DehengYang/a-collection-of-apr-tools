@@ -1,0 +1,25 @@
+{
+    "Title": "GenProgJS: a Baseline System for Test-based Automated Repair of JavaScript Programs",
+    "APR Tool Name": "GenProgJS",
+    "Authors": [
+        "Viktor Csuvik",
+        "D\\'aniel Horv\\'ath",
+        "M\\'ark Lajk\\'o",
+        "L\\'aszl\\'o Vid\\'acs"
+    ],
+    "Year": "2024",
+    "Venue": "TSE",
+    "Repo URL": "https://github.com/GenProgJS",
+    "Target Language": [
+        "JavaScript"
+    ],
+    "Used Dataset": [
+        "BugsJS"
+    ],
+    "CCF Rank": "A",
+    "Paper Category": "Tool Design",
+    "Bibtex": "@article{csuvik2024genprogjs,\n  title={GenProgJS: a Baseline System for Test-based Automated Repair of JavaScript Programs},\n  author={Csuvik, Viktor and Horv{\\'a}th, D{\\'a}niel and Lajk{\\'o}, M{\\'a}rk and Vid{\\'a}cs, L{\\'a}szl{\\'o}},\n  journal={IEEE Transactions on Software Engineering},\n  number={01},\n  pages={1--19},\n  year={2024},\n  publisher={IEEE Computer Society}\n}",
+    "Specification": "test",
+    "Tool Category": "search-based",
+    "Bug Types": "general bugs"
+}
